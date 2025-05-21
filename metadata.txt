@@ -1,0 +1,499 @@
+audio/GEN_001-1-1.wav|Kĩambĩrĩria-inĩ kĩa maũndũ mothe, Ngai nĩombire igũrũ na thĩ.|111
+audio/GEN_001-1-2.wav|Hĩndĩ ĩyo thĩ ndĩarĩ ũrĩa yatariĩ na ndĩarĩ na kĩndũ, nayo nduma yarĩ igũrũ rĩa kũrĩa kũriku, nake Roho wa Ngai aareerete igũrũ rĩa maaĩ.|111
+audio/GEN_001-1-3-4.wav|Nake Ngai agĩathana, akiuga atĩrĩ, Nĩkũgĩe ũtheri,” na gũkĩgĩa ũtheri.Ngai akĩona atĩ ũtheri ũcio warĩ mwega, nake akĩgayũkania ũtheri na nduma.|111
+audio/GEN_001-1-5.wav|Ngai agĩĩta ũtheri ũcio “mũthenya, nayo nduma akĩmĩĩta “ũtukũ.” Na gũkĩgĩa hwaĩ-inĩ, na gũkĩgĩa rũciinĩ. Ũcio ũgĩtuĩka mũthenya wa mbere.|111
+audio/GEN_001-1-6.wav|Nake Ngai agĩathana, akiuga atĩrĩ, Nĩkũgĩe wariĩ mũnene gatagatĩ ka maaĩ ũgayũkanie maaĩ na marĩa mangĩ.|111
+audio/GEN_001-1-7.wav|Nĩ ũndũ ũcio Ngai agĩĩkĩra wariĩ ũcio na akĩgayũkania maaĩ marĩa maarĩ thĩ ya wariĩ ũcio na maaĩ marĩa maarĩ igũrũ rĩaguo.|111
+audio/GEN_001-1-8.wav|Ngai agĩĩta wariĩ ũcio “matu mairũ. Na gũkĩgĩa hwaĩ-inĩ na gũkĩgĩa rũciinĩ. Ũcio ũgĩtuĩka mũthenya wa keerĩ.|111
+audio/GEN_001-1-9.wav|Nake Ngai agĩathana, akiuga atĩrĩ, Maaĩ marĩa marĩ thĩ ya matu mairũ nĩ mongane handũ hamwe na kũgĩe thĩ nyũmũ. Na gũgĩtuĩka o ũguo.|111
+audio/GEN_001-1-10.wav|Ngai agĩĩta kũrĩa kũmũ thĩ, namo maaĩ marĩa maacookanĩrĩire akĩmeeta maria. Nake Ngai akĩona atĩ ũndũ ũcio warĩ mwega.|111
+audio/GEN_016-1-1.wav|Na rĩrĩ, Sarai mũtumia wa Aburamu ndaamũciarĩire ciana. No nĩ aarĩ na mũirĩtu Mũmisiri wamũtungatagĩra wetagwo Hagari.|111
+audio/GEN_016-16-2.wav|Tondũ ũcio Sarai akĩĩra Aburamu atĩrĩ, Jehova nĩagirĩtie ngĩe na ciana. Thiĩ ũkome na ndungata yakwa ya mũirĩtu; hihi kwahoteka ngĩe na rũciaro nĩ ũndũ wake.|111
+audio/GEN_016-16-3.wav|Nĩ ũndũ ũcio, thuutha wa Aburamu gũkorwo atũũrĩte Kaanani mĩaka ikũmi-rĩ, mũtumia wake Sarai akĩoya Hagari Mũmisiri ũrĩa warĩ ndungata yake ya mũirĩtu.|111
+audio/GEN_016-16-4.wav|Nake Aburamu agĩkoma na Hagari, nake akĩgĩa nda. Na rĩrĩa aamenyire atĩ nĩagĩĩte nda-rĩ, akĩambĩrĩria kũnyarara Sarai|111
+audio/GEN_016-16-6.wav|Aburamu akĩmũcookeria atĩrĩ, “Ndungata yaku ĩrĩ moko-inĩ maku. Ĩka nayo ũrĩa ũkuona kwagĩrĩire.” Nake Sarai akĩnyamaria Hagari mũno;|111
+audio/GEN_016-16-7.wav|Mũraika wa Jehova agĩkora Hagari hakuhĩ na handũ haatherũkaga maaĩ werũ-inĩ; gathima kau kaarĩ mũkĩra-inĩ wa njĩra ĩrĩa ya gũthiĩ Shuri.|111
+audio/GEN_018-18-1.wav|Mũthenya ũmwe Jehova nĩ oimĩrĩire Iburahĩmu rĩrĩa aikarĩte mũromo-inĩ wa hema yake hakuhĩ na mĩtĩ ĩrĩa mĩnene ya mĩgandi ya Mamure, ihinda rĩa mĩaraho.|111
+audio/GEN_018-18-4.wav|Reke tũũĩ tũnini tũrehwo, na inyuĩ inyuothe mwĩthambe magũrũ na mũhurũke kĩĩruru-inĩ kĩa mũtĩ ũyũ.|111
+audio/GEN_018-18-7.wav|Ningĩ Iburahĩmu agĩtengʼera rũũru-inĩ, agĩthuura njaũ njega na njororo, akĩmĩnengera ndungata, nayo ĩkĩmĩthĩnja naihenya.|111
+audio/GEN_018-18-8.wav|Ningĩ Iburahĩmu akĩmarehera iria imata na iria rĩa mwĩtha, na nyama cia njaũ ĩyo yathĩnjĩtwo, agĩciiga hau mbere yao.|111
+audio/GEN_030-30-1.wav|Rĩrĩa Rakeli onire atĩ ndaraciarĩra Jakubu ciana-rĩ, akĩiguĩra mwarĩ wa nyina ũiru. Nĩ ũndũ ũcio akĩĩra Jakubu atĩrĩ, “He ciana kana ngue!”|111
+audio/GEN_030-18-2.wav|Jakubu akĩrakario nĩ Rakeli akĩmũũria atĩrĩ, “Kaarĩ niĩ ndĩ ithenya rĩa Ngai ũrĩa ũkũimĩte ciana?”|111
+audio/GEN_030-30-3.wav|Rakeli akĩmwĩra atĩrĩ, “Biliha ndungata yakwa ya mũirĩtu ĩrĩ haha; koma nayo nĩgeetha ĩnjiarĩre ciana, na niĩ ngĩe na nyũmba na ũndũ wayo.”|111
+audio/GEN_030-30-4-5.wav|Nĩ ũndũ ũcio akĩmũhe Biliha ndungata yake ya mũirĩtu ĩrĩ ta mũtumia wake. Jakubu agĩkoma nayo, nake Biliha akĩgĩa nda, akĩmũciarĩra kahĩĩ.|111
+audio/GEN_030-30-9.wav|Na rĩrĩa Lea onire atĩ nĩarũgamĩte kũgĩa ciana-rĩ, akĩoya Zilipa ndungata yake ya mũirĩtu akĩmĩhe Jakubu ĩrĩ ta mũtumia wake.|111
+audio/GEN_030-30-14.wav|Na rĩrĩ, hĩndĩ ya kũgetha ngano-rĩ, Rubeni agĩthiĩ mũgũnda-inĩ na akĩona mĩmera ya mandarĩki,* na akĩrehera nyina Lea. Nake Rakeli akĩĩra Lea atĩrĩ, “Ndagũthaitha he mandarĩki mamwe ma mũrũguo.”|111
+audio/GEN_030-30-15.wav|Nake Lea akĩmũcookeria atĩrĩ, “Kaĩ arĩ ũndũ mũnini kũndunya mũthuuri wakwa? Rĩu ningĩ nĩũkuoya mandarĩki ma mũriũ wakwa o namo?”|111
+audio/GEN_030-30-30.wav|Kĩrĩa kĩnini warĩ nakĩo itaanoka nĩkĩingĩhĩte mũno, nake Jehova nĩakũrathimĩte kũrĩa guothe ngoretwo. No rĩrĩ, ngeekĩra nyũmba yakwa ũndũ rĩ?”|111
+audio/NUM_001-1-1.wav|Na rĩrĩ, Jehova akĩarĩria Musa arĩ Hema-inĩ ya Gũtũnganwo kũu Werũ-inĩ wa Sinai mũthenya wa mbere wa mweri wa keerĩ.|222
+audio/NUM_001-1-2.wav|Akĩmwĩra atĩrĩ: “Tara kĩrĩndĩ gĩothe kĩa andũ a Isiraeli, ũmatare na mbarĩ ciao, na nyũmba ciao ũrĩa itariĩ, mũndũ mũrũme o mũndũ mũrũme andĩkwo rĩĩtwa rĩake. |222
+audio/NUM_001-1-3.wav|Wee mũrĩ na Harũni mũtare ikundi cia arũme othe arĩa marĩ Isiraeli, arĩa makinyĩtie mĩaka mĩrongo ĩĩrĩ na makĩria, arĩa mangĩhota gũthiĩ ita-inĩ.|222
+audio/NUM_001-1-4.wav|Mũndũ ũmwe kuuma o mũhĩrĩga, na akorwo arĩ mũtongoria wa nyũmba yao, nĩo mekũmũteithia.|222
+audio/NUM_001-1-16.wav|Acio nĩo andũ arĩa maathuurirwo kuuma kũrĩ kĩrĩndĩ gĩa Isiraeli, marĩ atongoria a mĩhĩrĩga ya maithe mao ma tene. Nĩo maarĩ atongoria a mĩhĩrĩga ya Isiraeli.|222
+audio/NUM_001-1-20-21.wav|Kũringana na maandĩko ma mbarĩ na nyũmba ciao. Kuuma mũhĩrĩga wa Rubeni maarĩ andũ 46,500.|222
+audio/NUM_001-1-22-23.wav|Kũringana na maandĩko ma mbarĩ na nyũmba ciao.Kuuma mũhĩrĩga wa Simeoni maarĩ andũ 59,300.|222
+audio/NUM_001-1-24-25.wav|Kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Gadi maarĩ andũ 45,650.|222
+audio/NUM_001-1-26-27.wav|Kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Juda maarĩ andũ 74,600.|222
+audio/NUM_001-1-28-29.wav|Kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Isakaru maarĩ andũ 54,400.|222
+audio/NUM_001-1-30-31.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Zebuluni maarĩ andũ 57,400.|222
+audio/NUM_001-1-32-33.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake, kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Efiraimu maarĩ andũ 40,500.|222
+audio/NUM_001-1-34-35.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga-inĩ wa Manase maarĩ andũ 32,200.|222
+audio/NUM_001-1-36-37.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake, kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Benjamini maarĩ andũ 35,400.|222
+audio/NUM_001-1-38-39.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake, kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao.Kuuma mũhĩrĩga wa Dani maarĩ andũ 62,700.|222
+audio/NUM_001-1-40-41.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake, kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao. 41 Kuuma mũhĩrĩga wa Asheri maarĩ andũ 41,500.|222
+audio/NUM_001-1-42-43.wav|Makĩandĩkwo o mũndũ o mũndũ na rĩĩtwa rĩake, kũringana na maandĩko ma mbarĩ ciao na nyũmba ciao. 43 Kuuma mũhĩrĩga wa Nafitali maarĩ andũ 53,400.|222
+audio/NUM_001-1-44.wav|Acio nĩo andũ arĩa maatarirwo nĩ Musa na Harũni na atongoria arĩa ikũmi na eerĩ a Isiraeli, o ũmwe wao arũgamĩrĩire nyũmba yake.|222
+audio/NUM_001-1-45.wav|Andũ othe a Isiraeli arĩa maakinyĩtie mĩaka mĩrongo ĩĩrĩ kana makĩria, arĩa mangĩahotire gũthiĩ ita-inĩ, magĩtarwo kũringana na nyũmba ciao.|222
+audio/NUM_001-1-46.wav|Andũ acio othe marĩ hamwe maarĩ 603,550.|222
+audio/NUM_001-1-47-48.wav|No rĩrĩ, andũ a nyũmba ya mũhĩrĩga wa Lawi matiataranĩirio hamwe na andũ arĩa angĩ a Isiraeli. 48 Jehova nĩeerĩte Musa atĩrĩ,|222
+audio/NUM_001-1-49.wav|“Mũtigatare andũ a mũhĩrĩga wa Lawi kana mũmataranĩrie na andũ arĩa angĩ a Isiraeli. 50 Handũ ha ũguo-rĩ, amũrai Alawii matuĩke arori a hema ya Ũira,|222
+audio/NUM_001-1-50.wav|Mamenyagĩrĩre indo ciothe ciayo, na kĩndũ o gĩothe kĩa hema ĩyo. Nĩo marĩkuuaga hema ĩyo o na indo ciothe ciayo;|222
+audio/NUM_002-2-1.wav|“Andũ a Isiraeli nĩmambage hema ciao irigiicĩirie Hema-ya-Gũtũnganwo no irĩ haraaya nayo, o mũndũ arĩ harĩa bendera yake ĩrĩ ĩrĩa ĩrĩ na marũũri ma nyũmba yao.”|222
+audio/NUM_002-2-3.wav|Mwena wa irathĩro, kũrĩa riũa rĩrathagĩra-rĩ, nĩho ikundi cia kambĩ ya mũhĩrĩga wa Juda ikaamba hema harĩa bendera yao ĩrĩ. |222
+audio/NUM_002-2-5.wav|Mũhĩrĩga wa Isakaru ũkaamba hema ciao mariganĩtie na andũ a Juda. Mũtongoria wa andũ a Isakaru nĩ Nethaneli mũrũ wa Zuaru.|222
+audio/NUM_002-2-7.wav|Mũhĩrĩga wa Zebuluni nĩguo ũgaacookerera. Mũtongoria wa andũ a Zebuluni nĩ Eliabu mũrũ wa Heloni.|222
+audio/NUM_002-2-9.wav|Andũ othe arĩa maagaĩirwo gũikara kambĩ ya Juda, kũringana na ikundi ciao-rĩ, nĩ andũ 186,400.|222
+audio/NUM_002-2-10.wav|Mwena wa gũthini nĩho ikundi cia kambĩ ya mũhĩrĩga wa Rubeni igaakorwo, harĩa bendera yao ĩrĩ. |222
+audio/NUM_002-2-11.wav|Mũtongoria wa andũ a Rubeni nĩ Elizuru mũrũ wa Shedeuru.Gĩkundi gĩake nĩ kĩa andũ 46,500.|222
+audio/NUM_002-2-12.wav|Mũhĩrĩga wa Simeoni ũkaamba hema ciao mariganĩtie na Rubeni. Mũtongoria wa andũ a Simeoni nĩ Shelumieli mũrũ wa Zurishadai.|222
+audio/NUM_002-2-14.wav|Mũhĩrĩga wa Gadi nĩguo ũgũcookerera. Mũtongoria wa andũ a Gadi nĩ Eliasafu mũrũ wa Deueli.|222
+audio/NUM_002-2-16.wav|Magaĩirwo gũikara kambĩ ya Rubeni, kũringana na ikundi ciao-rĩ, nĩ andũ 151,450. |222
+audio/NUM_002-2-17.wav|Makoimagara marũmanĩrĩire kũringana na ũrĩa hema cia kambĩ ciao ciambĩtwo, o kambĩ ĩrĩ handũ hayo nyene o harĩa bendera yao ĩrĩ.|222
+audio/NUM_002-2-18.wav|Mwena wa ithũĩro nĩkuo ikundi cia kambĩ ya mũhĩrĩga wa Efiraimu igũkorwo, o harĩa bendera yao ĩrĩ. |222
+audio/NUM_002-2-20.wav|Mũhĩrĩga wa Manase nĩguo ũkũrigania nao. Mũtongoria wa andũ a Manase nĩ Gamalieli mũrũ wa Pedazuru.|222
+audio/NUM_002-2-22.wav|Mũhĩrĩga wa Benjamini nĩguo ũgũcookerera. Mũtongoria wa andũ a Benjamini nĩ Abidani mũrũ wa Gideoni.|222
+audio/NUM_002-2-24.wav|Andũ othe arĩa maagaĩirwo gũikara kambĩ ya Efiraimu, kũringana na ikundi ciao-rĩ, nĩ andũ 108,100.|222
+audio/NUM_002-2-25.wav|Mwena wa gathigathini nĩkuo ikundi cia kambĩ ya mũhĩrĩga wa Dani igũkorwo, harĩa bendera yao ĩrĩ.|222
+audio/NUM_002-2-26.wav|Mũtongoria wa andũ a Dani nĩ Ahiezeri mũrũ wa Amishadai.Gĩkundi gĩake nĩ kĩa andũ 62,700.|222
+audio/NUM_002-2-27.wav|Mũhĩrĩga wa Asheri ũkaamba hema ciao mariganĩtie nao. Mũtongoria wa andũ a Asheri nĩ Pagieli mũrũ wa Okirani.|222
+audio/NUM_002-2-29.wav|Mũhĩrĩga wa Nafitali nĩguo ũgũcookerera. Mũtongoria wa andũ a Nafitali nĩ Ahira mũrũ wa Enani.|222
+audio/NUM_002-2-31.wav|Andũ othe arĩa magaĩirwo gũikara kambĩ ya Dani nĩ andũ 157,600.|222
+audio/NUM_002-2-32.wav|Acio nĩo andũ a Isiraeli, arĩa maatarirwo kũringana na nyũmba ciao. Arĩa othe maarĩ kambĩ-inĩ kũringana na ikundi ciao-rĩ,|222
+audio/NUM_002-2-32i.wav|maarĩ andũ 603,550.|222
+audio/NUM_002-2-33.wav|No rĩrĩ, Alawii matiataranĩirio na andũ arĩa angĩ a Isiraeli, ta ũrĩa Jehova aathĩte Musa.|222
+audio/NUM_002-2-34.wav|Maambire hema harĩa bendera ciao ciarĩ, na ũguo noguo moimagarire, o mũtongoria na andũ a mũhĩrĩga wake na nyũmba yake.|222
+audio/NUM_003-3-2.wav|Marĩĩtwa ma ariũ a Harũni maarĩ Nadabu ũrĩa warĩ irigithathi, na Abihu, na Eleazaru, na Ithamaru.|222
+audio/NUM_003-3-3.wav|Macio nĩmo marĩĩtwa ma ariũ a Harũni, nao maarĩ athĩnjĩri-Ngai aitĩrĩrie maguta, arĩa maamũrĩtwo matungatage marĩ athĩnjĩri-Ngai.|222
+audio/NUM_003-3-6.wav|Rehe andũ a mũhĩrĩga wa Lawi ũmaneane kũrĩ Harũni mũthĩnjĩri-Ngai, nĩguo mamũteithagie.|222
+audio/NUM_003-3-7.wav|Marĩĩrutaga wĩra wa kũmũtungatĩra, na matungatagĩre kĩrĩndĩ kĩu gĩothe hau Hema-inĩ-ya-Gũtũnganwo na ũndũ wa kũruta wĩra wa hema ĩyo.|222
+audio/NUM_003-3-8.wav|Nao marĩmenyagĩrĩra indo ciothe cia Hema-ya-Gũtũnganwo, mahingagie maũndũ marĩa magĩrĩire nĩ gwĩkwo nĩ andũ a Isiraeli na ũndũ wa kũruta wĩra wa hema ĩyo.|222
+audio/NUM_003-3-10.wav|Amũra Harũni na ariũ ake matungatage marĩ athĩnjĩri-Ngai; mũndũ ũngĩ o wothe ũrĩa ũrĩkuhagĩrĩria harĩa haamũre no nginya ooragwo.|222
+audio/NUM_003-3-12.wav|Niĩ nĩ niĩ thuurĩte Alawii kuuma kũrĩ andũ a Isiraeli ithenya rĩa marigithathi ma arũme arĩa marigithathĩtwo nĩ andũ-a-nja othe a Isiraeli. Alawii nĩ akwa, |222
+audio/NUM_003-3-17.wav|Maya nĩmo marĩĩtwa ma ariũ a Lawi: Nĩ Gerishoni, na Kohathu, na Merari. Maya nĩmo marĩĩtwa ma mbarĩ cia Agerishoni:|222
+audio/NUM_003-3-18.wav|Maya nĩmo marĩĩtwa ma mbarĩ cia Agerishoni: Nĩ Libini na Shimei. Mbarĩ cia Akohathu ciarĩ:|222
+audio/NUM_003-3-19.wav|Mbarĩ cia Akohathu ciarĩ: Amuramu, na Iziharu na Hebironi, na Uzieli.|222
+audio/NUM_003-3-20.wav|Mbarĩ cia Amerari: ciarĩ Mahali na Mushi. Ici nĩcio ciarĩ mbarĩ cia Alawii, kũringana na nyũmba ciao.|222
+audio/NUM_003-3-21.wav|Gerishoni aarĩ na mbarĩ cia Alabini na Ashimei; ici nĩcio ciarĩ mbarĩ cia Agerishoni.|222
+audio/NUM_003-3-23.wav| Mbarĩ icio cia Agerishoni ciarĩ ciambe hema ciao mwena wa ithũĩro, thuutha wa Hema-ĩrĩa-Nyamũre.|222
+audio/NUM_003-3-25.wav|Agerishoni nĩo maarĩ na wĩra wa kũmenyerera Hema-ĩyo-Nyamũre na hema, na ciandarũa cia kũmĩhumbĩra, na gĩtambaya gĩa gũcuurio itoonyero rĩa Hema-ya-Gũtũnganwo,na itambaya cia gũcuurio cia kũirigĩra nja,|222
+audio/NUM_003-3-26.wav|na gĩtambaya gĩa gũcuurio gĩa itoonyero rĩa nja ĩrĩa ĩthiũrũkĩirie Hema ĩyo nyamũre na kĩgongona na mĩhĩndo, na indo ciothe iria ikonainie na wĩra wacio.|222
+audio/NUM_003-3-27.wav|Kohathu aarĩ na mbarĩ cia Aamuramu, na Aiziharu, na Ahebironi, na Auzieli; icio nĩcio ciarĩ mbarĩ cia Akohathu.|222
+audio/NUM_003-3-28.wav|Arũme arĩa othe maakinyĩtie mweri ũmwe na makĩria maarĩ andũ 8,600. Wĩra wa Akohathu warĩ wa kũmenyerera harĩa haamũre.|222
+audio/NUM_003-3-29.wav|Mbarĩ cia Akohathu ciarĩ ciambage hema mwena wa gũthini wa Hema-ĩrĩa-Nyamũre.Mũtongoria wa nyũmba cia mbarĩ cia Akohathu aarĩ Elizafani mũrũ wa Uzieli.|222
+audio/NUM_003-3-31.wav|Wĩra wao warĩ wa kũmenyerera ithandũkũ rĩa kĩrĩkanĩro, na metha, na mũtĩ ũrĩa wa kũigĩrĩrwo matawa, na igongona, na indo cia gũtũmĩrwo harĩa haamũre,|222
+audio/NUM_003-3-32.wav|Mũtongoria mũnene wa Alawii aarĩ Eleazaru mũrũ wa Harũni, ũrĩa mũthĩnjĩri-Ngai. Nĩwe watuirwo mũrũgamĩrĩri wa arĩa maamenyagĩrĩra harĩa haamũre.|222
+audio/NUM_003-3-34.wav|Arũme arĩa othe maatarirwo arĩa maakinyĩtie mweri ũmwe na makĩria maarĩ andũ 6,200.|222
+audio/NUM_003-3-35.wav|Mũtongoria wa nyũmba cia mbarĩ ya Merari aarĩ Zurieli mũrũ wa Abihaili; nao maarĩ maambage hema mwena wa gathigathini wa Hema-ĩrĩa-Nyamũre.|222
+audio/NUM_003-3-36.wav|Amerari maamũrirwo mamenyagĩrĩre buremu ya hema ĩrĩa yaamũrĩtwo, na mĩgĩĩko yayo, na itugĩ, na itina ciacio,|222
+audio/NUM_003-3-38.wav|Musa na Harũni na ariũ ake maarĩ mambage hema ciao mwena wa irathĩro wa Hema-ĩyo-Nyamũre, mangʼetheire irathĩro, o hau mbere ya Hema-ya-Gũtũnganwo.|222
+audio/NUM_003-3-38i.wav|Wĩra wao warĩ wa kũmenyerera harĩa haamũre ithenya rĩa andũ a Isiraeli. Mũndũ ũngĩ o wothe ũngĩakuhĩrĩirie hau haamũre aarĩ ooragwo.|222
+audio/NUM_003-3-39.wav| Alawii arĩa othe maatarirwo ta ũrĩa Jehova aathĩte Musa na Harũni kũringana na mbarĩ ciao, hamwe na arũme othe arĩa maakinyĩtie mweri ũmwe na makĩria,|222
+audio/NUM_003-3-40.wav|Nake Jehova akĩĩra Musa atĩrĩ, “Tara marigithathi ma arũme othe ma andũ a Isiraeli arĩa makinyĩtie mweri ũmwe na makĩria, na wandĩke marĩĩtwa mao.|222
+audio/NUM_003-3-41.wav|Nyamũrĩra Alawii handũ ha marigithathi mothe ma andũ a Isiraeli; o naguo ũhiũ wa Alawii ũwaamũre handũ ha marigithathi mothe ma mahiũ ma andũ a Isiraeli. Niĩ nĩ niĩ Jehova.|222
+audio/NUM_003-3-43.wav|Marigithathi mothe ma arũme arĩa maakinyĩtie mweri ũmwe na makĩria, maandĩkwo na marĩĩtwa mao, maarĩ andũ 22,273.|222
+audio/NUM_003-3-45.wav|Amũra Alawii handũ ha marigithathi mothe ma andũ a Isiraeli, naguo ũhiũ wa Alawii ũwaamũre handũ ha mahiũ mao. Alawii megũtuĩka akwa. Niĩ nĩ niĩ Jehova.|222
+audio/NUM_003-3-46.wav|Gũkũũra marigithathi macio 273 ma andũ a Isiraeli, acio makĩrĩte mũigana wa Alawii-rĩ,|222
+audio/NUM_003-3-47.wav|oya cekeri ithano irũgamĩrĩre o mũndũ, kũringana na cekeri ya handũ-harĩa-haamũre, ĩrĩa ũritũ wayo ũrĩ gera mĩrongo ĩĩrĩ.|222
+audio/NUM_003-3-49.wav|Nĩ ũndũ ũcio Musa akĩũngania mbeeca cia gũkũũra andũ acio maakĩrĩte mũigana wa andũ arĩa maakũũrĩtwo nĩ Alawii.Kuuma kũrĩ marigithathi ma andũ a Isiraeli,|222
+audio/NUM_003-3-50.wav|akĩũngania betha ya ũritũ wa cekeri 1,365 kũringana na cekeri ya handũ-harĩa-haamũre.|222
+audio/NUM_003-3-51.wav|Musa akĩnengera Harũni na ariũ ake mbeeca icio ciakũũrĩte andũ, o ta ũrĩa aathĩtwo nĩ kiugo kĩa Jehova.|222
+audio/NUM_004-4-2.wav|Thĩinĩ wa Alawii-rĩ, tarai rũhonge rwa Akohathu kũringana na mbarĩ ciao na nyũmba ciao.|222
+audio/NUM_004-4-3.wav|Mũtare arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mokaga gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo.|222
+audio/NUM_004-4-4.wav|Ũyũ nĩguo wĩra wa Akohathu thĩinĩ wa Hema-ya-Gũtũnganwo: wĩra wao nĩ kũmenyerera indo iria theru mũno.|222
+audio/NUM_004-4-5.wav|Rĩrĩa kambĩ ĩgũthaama-rĩ, Harũni na ariũ ake marĩtoonyaga thĩinĩ wa hema ĩyo makaruta gĩtambaya gĩa gũcuurio gĩa kũhakania na makahumbĩra ithandũkũ rĩa Ũira nakĩo.|222
+audio/NUM_004-4-6.wav|Ningĩ marĩhumbĩre na gĩthii kĩa njũũa cia pomboo, na maare gĩtambaya kĩa rangi wa bururu mũtheri igũrũ rĩacio, na matoonyie mĩtĩ ya kũrĩkuua handũ hayo.|222
+audio/NUM_004-4-7.wav|Nao maare gĩtambaya kĩa rangi wa bururu igũrũ rĩa metha ya mĩgate ĩrĩa ĩigagwo mbere ya Jehova, na mamĩigĩrĩre thaani, na thaani, nene na mbakũri,|222
+audio/NUM_004-4-8.wav|Macooke maigĩrĩre gĩtambaya kĩa rangi wa gakarakũ igũrũ rĩa indo icio na ningĩ mahumbĩre gĩtambaya kĩu na njũũa cia pomboo,|222
+audio/NUM_004-4-9.wav|Ningĩ moe gĩtambaya kĩa rangi wa bururu, mahumbĩre mũtĩ ũrĩa wa kũigĩrĩrwo matawa marĩa mamũrĩkaga, hamwe na matawa maguo, na magathĩ ma gũtinia ndaambĩ,|222
+audio/NUM_004-4-10.wav|Ningĩ makũnje mũtĩ ũcio na indo ciaguo ciothe ciohetwo na gĩthii kĩa njũũa cia pomboo, na macigĩrĩre igũrũ rĩa gĩkuui gĩacio.|222
+audio/NUM_004-4-11.wav|Nĩ maare gĩtambaya kĩa rangi wa bururu igũrũ rĩa kĩgongona gĩa thahabu, na makĩhumbĩre na gĩthii kĩa njũũa cia pomboo, na matoonyie mĩtĩ ĩrĩa ya gũgĩkuua handũ hayo.|222
+audio/NUM_004-4-12.wav|Ningĩ moe indo ciothe iria ihũthagĩrwo ũtungata-inĩ wa handũ-harĩa-haamũre, macikũnje na gĩtambaya kĩa rangi wa bururu,|222
+audio/NUM_004-4-13.wav|Ningĩ nĩ marute mũhu kuuma kĩgongona-inĩ gĩa gĩcango, na maare gĩtambaya kĩa rangi wa ndathi igũrũ rĩakĩo.Ningĩ maigĩrĩre indo ciothe iria ihũthagĩrwo gũtungata kĩgongona-inĩ,|222
+audio/NUM_004-4-14.wav|nacio nĩ hamwe na ngĩo cia mwaki, na njibe, na icakũri, na mbakũri cia kũminjaminjĩria. Igũrũ rĩakĩo nĩ maare gĩthii kĩa njũũa cia pomboo|222
+audio/NUM_004-4-15.wav|Thuutha wa Harũni na ariũ ake kũrĩĩkia kũhumbĩra indo ciothe theru o na indo ciothe nyamũre, na rĩrĩa andũ a kambĩ mehaarĩria gũthaama-rĩ, ariũ a Akohathu nao moke makuue indo icio.|222
+audio/NUM_004-4-15i.wav|No matikanahutie indo icio nyamũre matigakue. Akohathu acio nĩo magaakuua indo iria irĩ thĩinĩ wa Hema-ya-Gũtũnganwo.|222
+audio/NUM_004-4-16.wav|Eleazaru mũrũ wa Harũni, ũrĩa mũthĩnjĩri-Ngai, nĩwe ũrĩmenyagĩrĩra maguta ma gwakia tawa, na ũbumba ũrĩa ũnungaga wega,|222
+audio/NUM_004-4-16i.wav|na mũtu ũrĩa ũrutagwo hĩndĩ ciothe, o na maguta marĩa maitanagĩrĩrio. Nĩwe ũrĩmenyagĩrĩra Hema-ĩyo-Nyamũre ĩrĩ yothe na indo iria ciothe irĩ thĩinĩ wayo,|222
+audio/NUM_004-4-17.wav|Jehova akĩĩra Musa na Harũni atĩrĩ, “Menyererai mbarĩ cia mũhĩrĩga wa Akohathu matikaneherio kuuma kũrĩ Alawii."|222
+audio/NUM_004-4-19.wav|Nĩguo matũũre muoyo na matikae gũkua rĩrĩa mangĩkuhĩrĩria indo iria theru mũno-rĩ, mekagĩrei ũũ: Harũni na ariũ ake nĩo marĩtoonyaga handũ harĩa hatheru,|222
+audio/NUM_004-4-20.wav|na makagaĩra o mũndũ wĩra wake na kĩrĩa egũkuua. No ariũ a Kohathu matikanatoonye thĩinĩ kuona indo iria theru o na hanini, nĩguo matigaakue.|222
+audio/NUM_004-4-23.wav|Ũtare arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mokaga gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo.|222
+audio/NUM_004-4-24.wav|Ũyũ nĩguo ũtungata wa mbarĩ cia Agerishoni rĩrĩa mekũruta wĩra na gũkuua mĩrigo: Nĩo marĩkuuaga itambaya cia gũcuurio cia Hema-ĩrĩa-Nyamũre, na Hema-ya-Gũtũnganwo,|222
+audio/NUM_004-4-25.wav|na indo cia kũmĩhumbĩra, o na gĩthii kĩa njũũa cia pomboo cia kũmĩhumbĩra na igũrũ, na itambaya cia gũcuurio cia itoonyero rĩa Hema-ya-Gũtũnganwo,|222
+audio/NUM_004-4-26.wav|na itambaya cia gũcuurio iria cia kũirigĩra nja ĩrĩa ĩthiũrũrũkĩirie Hema-ĩyo-Nyamũre na kĩgongona, na gĩtambaya gĩa gũcuurio gĩa itoonyero-inĩ, na mĩhĩndo na indo ciothe itũmagĩrwo ũtungata-inĩ wayo.|222
+audio/NUM_004-4-26i.wav|Agerishoni acio nĩo marĩrutaga wĩra wothe ũrĩa wagĩrĩire kũrutwo na indo icio. Ũtungata wao wothe, ũrĩ wa gũkuua mĩrigo kana wa kũruta wĩra ũngĩ,|222
+audio/NUM_004-4-27.wav|ũrĩĩrutagwo ũtongoretio nĩ Harũni na ariũ ake. Nĩ inyuĩ mũrĩmagayagĩra wĩra wao wa kĩrĩa gĩothe marĩkuuaga. Ũcio nĩguo ũtungata wa mbarĩ ya Agerishoni Hema-inĩ-ya-Gũtũnganwo.|222
+audio/NUM_004-4-29.wav|Amerari kũringana na mbarĩ na nyũmba ciao. Tara arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mokaga gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo.|222
+audio/NUM_004-4-31.wav|Ũyũ nĩguo wĩra wao ũrĩa marĩrutaga magĩtungata Hema-inĩ-ya-Gũtũnganwo: wĩra wao nĩ gũkuuaga buremu cia Hema-ĩyo-Nyamũre, na mĩgĩĩko yayo,|222
+audio/NUM_004-4-32.wav|o ũndũ ũmwe na itugĩ iria ciirigĩte nja hamwe na itina ciacio, na higĩ cia hema na mĩhĩndo, na indo ciothe ciacio na kĩndũ gĩothe gĩkonainie na kũruta wĩra ũcio.|222
+audio/NUM_004-4-33.wav|Gayagĩra o mũndũ indo iria agĩrĩirwo nĩ gũkuua. 33 Ũcio nĩguo ũtungata wa mbarĩ ya Amerari rĩrĩa marĩrutaga wĩra Hema-inĩ-ya-Gũtũnganwo, matongoretio nĩ Ithamaru mũrũ wa Harũni,|222
+audio/NUM_004-4-34.wav|Na rĩrĩ, Musa, na Harũni, na atongoria a kĩrĩndĩ nĩmatarire Akohathu acio kũringana na mbarĩ na nyũmba ciao.|222
+audio/NUM_004-4-35.wav|Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo,|222
+audio/NUM_004-4-36.wav|matarĩtwo na mbarĩ ciao, maarĩ andũ 2,750|222
+audio/NUM_004-4-37.wav|Ũcio nĩguo warĩ mũigana wa andũ othe arĩa maarĩ a mbarĩ cia Akohathu arĩa maatungataga thĩinĩ wa Hema-ya-Gũtũnganwo.|222
+audio/NUM_004-4-38.wav|Musa na Harũni maamatarire kũringana na ũrĩa Jehova aathĩte Musa.Agerishoni maatarirwo kũringana na mbarĩ na nyũmba ciao.|222
+audio/NUM_004-4-39.wav|Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo,|222
+audio/NUM_004-4-40.wav|matarĩtwo na mbarĩ na nyũmba ciao, maarĩ andũ 2,630.|222
+audio/NUM_004-4-41.wav|Ũcio nĩguo warĩ mũigana wa mbarĩ cia Agerishoni arĩa maatungataga thĩinĩ wa Hema-ya-Gũtũnganwo. Musa na Harũni maamatarire kũringana na watho wa Jehova.|222
+audio/NUM_004-4-42.wav|Amerari maatarirwo kũringana na mbarĩ na nyũmba ciao.Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano,|222
+audio/NUM_004-4-44.wav|arĩa mookire gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo,matarĩtwo na mbarĩ ciao, maarĩ andũ 3,200.Ũcio nĩguo warĩ mũigana wa mbarĩ cia Amerari.|222
+audio/NUM_004-4-45.wav|Musa na Harũni maamatarire kũringana na ũrĩa Jehova aathĩte Musa.|222
+audio/NUM_004-4-46.wav|Nĩ ũndũ ũcio, Musa na Harũni na atongoria a Isiraeli magĩtara Alawii othe kũringana na mbarĩ ciao na nyũmba ciao. |222
+audio/NUM_004-4-47.wav|Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire kũruta wĩra wa gũtungata na gũkuua Hema-ya-Gũtũnganwo,|222
+audio/NUM_004-4-48.wav|mũigana wao warĩ andũ 8,580.Kũringana na watho wa Jehova ũrĩa aathĩte Musa,|222
+audio/NUM_004-4-49.wav|mũndũ o mũndũ nĩagayagĩrwo wĩra wake, na akeerwo kĩrĩa egũkuua. Ũguo nĩguo maatarirwo, o ta ũrĩa Jehova aathĩte Musa.|222
+audio/NUM_005-5-2.wav|Atha andũ a Isiraeli maingate kuuma kambĩ-inĩ yao mũndũ o wothe ũrũarĩte mũrimũ wa ngoothi ũrĩa ũngĩgwatanio, kana mũndũ ũrĩ na handũ o na ha he kuura,|222
+audio/NUM_005-5-3.wav| Ingata arũme o na andũ-a-nja; ũmaingate nja ya kambĩ nĩguo matigathaahie kambĩ yao kũrĩa niĩ ndũũranagia na inyuĩ.|222
+audio/NUM_005-5-4.wav|Ũguo noguo andũ a Isiraeli meekire; makĩruta andũ acio nja ya kambĩ. Magĩĩka o ũrĩa Jehova aathĩte Musa gwĩkwo.|222
+audio/NUM_005-5-6.wav|Rĩrĩa mũndũ mũrũme kana mũndũ-wa-nja angĩhĩtĩria mũndũ ũrĩa ũngĩ na njĩra o yothe, na nĩ ũndũ ũcio aage kwĩhokeka harĩ Jehova-rĩ, mũndũ ũcio nĩ mũhĩtia,|222
+audio/NUM_005-5-7.wav|na no nginya oimbũre mehia marĩa ekĩte. No nginya arute irĩhi rĩothe nĩ ũndũ wa mahĩtia macio make, na ongerere gĩcunjĩ gĩa ithano kũrĩ irĩhi rĩu,|222
+audio/NUM_005-5-8.wav|No mũndũ ũcio angĩkorwo ndarĩ na mũndũ wa nyũmba yao ũrĩa ũngĩrĩhwo nĩ ũndũ wa ihĩtia rĩu, irĩhi rĩu rĩrĩtuĩkaga rĩa Jehova,|222
+audio/NUM_005-5-9.wav|na no nginya rĩnengerwo mũthĩnjĩri-Ngai rĩrĩ hamwe na ndũrũme ya kũrutwo igongona rĩa horohio nĩ ũndũ wake. 9 Maruta mothe maamũre marĩa andũ a Isiraeli marĩrehagĩra mũthĩnjĩri-Ngai-rĩ, marĩtuĩkaga make.|222
+audio/NUM_005-5-10.wav| Iheo cia o mũndũ iria nyamũre nĩ ciake we mwene, no kĩrĩa angĩhe mũthĩnjĩri-Ngai, gĩgaatuĩka kĩa mũthĩnjĩri-Ngai ũcio.|222
+audio/NUM_005-5-11.wav| Ningĩ Jehova akĩĩra Musa atĩrĩ, “Arĩria andũ a Isiraeli, ũmeere atĩrĩ: ‘Mũtumia wa mũndũ angĩhĩngĩcania mĩthiĩre yake,|222
+audio/NUM_005-5-12.wav| atuĩke ti mwĩhokeku harĩ we na ũndũ wa gũkoma na mũndũ ũngĩ, na ũndũ ũcio ũhithwo mũthuuriwe na thaahu wake wage kũmenyeka|222
+audio/NUM_005-5-13.wav|tondũ hatirĩ mũira wa kũmuumbũra, na ndaakorereirwo agĩĩka ũndũ ũcio-rĩ, na mũthuuriwe aiguĩre mũtumia wake ũiru na amwĩkũũĩre atĩ nĩethaahĩtie,|222
+audio/NUM_005-5-14.wav|kana amũiguĩre ũiru na amwĩkũũĩre o na akorwo atethaahĩtie, hĩndĩ ĩyo nĩatware mũtumia wake harĩ mũthĩnjĩri-Ngai.|222
+audio/NUM_005-5-15.wav|Ningĩ no nginya atware gĩcunjĩ gĩa ikũmi kĩa eba ĩmwe ya mũtu wa cairi nĩ ũndũ wa mũtumia wake.|222
+audio/NUM_005-5-15i.wav|Ndagaitĩrĩrie mũtu ũcio maguta kana awĩkĩre ũbumba, nĩ ũndũ rĩu nĩ iruta rĩa mũtu rĩrutagwo nĩ ũndũ wa ũiru,|222
+audio/NUM_005-5-16.wav|iruta rĩa mũtu rĩa kĩririkano, rĩa kũririkanania ihĩtia rĩu.‘Mũthĩnjĩri-Ngai nĩagatwara mũtumia ũcio amũrũgamie mbere ya Jehova.|222
+audio/NUM_005-5-17.wav|Acooke oe maaĩ maamũre marĩ ndigithũ-inĩ ya rĩũmba, na ahakũre rũkũngũ hau thĩ ya Hema-ĩrĩa-Nyamũre arwĩkĩre maaĩ-inĩ macio.|222
+audio/NUM_005-5-18.wav|Mũthĩnjĩri-Ngai aarĩkia kũrũgamia mũtumia ũcio mbere ya Jehova, nĩakamuohora njuĩrĩ yake,|222
+audio/NUM_005-5-18i.wav|acooke amũnengere iruta rĩu rĩa kĩririkano rĩa mũtu nĩ ũndũ wa ũiru arĩnyiite na moko,|222
+audio/NUM_005-5-18j.wav|nake mũthĩnjĩri-Ngai we mwene akorwo anyiitĩte maaĩ macio marũrũ marĩa marehaga kĩrumi. Mũthĩnjĩri-Ngai acooke ehĩtithie mũtumia ũcio, amwĩre atĩrĩ,|222
+audio/NUM_005-5-19.wav|Angĩkorwo hatirĩ mũndũ ũngĩ ũkomete nawe, na ndũhĩngĩcanĩtie mĩthiĩre yaku ũgethaahia hĩndĩ ĩrĩa ũrĩ na mũthuuri-rĩ,|222
+audio/NUM_005-5-20.wav|No angĩkorwo nĩũhĩngĩcanĩtie mĩthiĩre yaku ũrĩ na mũthuuri na ũgethaahia nĩ ũndũ wa gũkoma na mũndũ ũngĩ tiga mũthuuriguo-rĩ,|222
+audio/NUM_005-5-21.wav|hĩndĩ ĩyo mũthĩnjĩri-Ngai nĩakehĩtithia mũtumia ũcio na mwĩhĩtwa ũyũ ũrehanagĩra kĩrumi, oige atĩrĩ, |222
+audio/NUM_005-5-21i.wav|Jehova arotũma andũ anyu makũrume na magũkaane, rĩrĩa agaatũma kĩero gĩaku kĩhinyare na nda yaku ĩimbe.|222
+audio/NUM_005-5-22.wav|Namo maaĩ maya marehaga kĩrumi marotoonya mwĩrĩ waku, nayo nda yaku ĩimbe na kĩero gĩaku kĩhinyare.|222
+audio/NUM_005-5-22i.wav|Nake mũtumia ũcio acooke oige atĩrĩ, “Ameni, nĩgũtuĩke ũguo.”Mũthĩnjĩri-Ngai nĩakandĩka irumi icio ibuku-inĩ rĩa gĩkũnjo,|222
+audio/NUM_005-5-23.wav|Mũthĩnjĩri-Ngai nĩakandĩka irumi icio ibuku-inĩ rĩa gĩkũnjo, acooke acithambĩrie maaĩ-inĩ macio marũrũ.|222
+audio/NUM_005-5-24.wav|Nĩagatũma mũtumia ũcio anyue maaĩ macio marũrũ marehaga kĩrumi, namo maaĩ macio mamũtoonye na matũme aigue ruo rũnene mũno.|222
+audio/NUM_005-5-25.wav|Mũthĩnjĩri-Ngai acooke oe iruta rĩu rĩa mũtu nĩ ũndũ wa ũiru kuuma moko-inĩ ma mũtumia ũcio, arĩthũngũthie mbere ya Jehova, na acooke arĩrehe kĩgongona-inĩ.|222
+audio/NUM_005-5-26.wav|Ningĩ mũthĩnjĩri-Ngai ũcio arũme ngundi ĩmwe ya mũtu ũcio ũrutĩtwo ũrĩ wa kĩririkano na aũcinĩre igũrũ rĩa kĩgongona;|222
+audio/NUM_005-5-26i.wav|thuutha ũcio atũme mũtumia ũcio anyue maaĩ macio.Angĩkorwo nĩethaahĩtie na ti mwĩhokeku harĩ mũthuuriwe-rĩ, rĩrĩa akaanyuithio maaĩ macio marehaga kĩrumi,|222
+audio/NUM_005-5-27.wav|nĩ makaamũtoonya matũme aigue ruo rũnene mũno, na nda yake ĩimbe na kĩero gĩake kĩhinyare, nake atuĩke thaahu kũrĩ andũ ao.|222
+audio/NUM_005-5-28.wav|No rĩrĩ, angĩkorwo mũtumia ũcio ndethaahĩtie na akorwo nĩ mũthingu-rĩ, ndagatuuo mũhĩtia, na nĩakahota kũgĩa na ciana.|222
+audio/NUM_005-5-29.wav|Ũyũ nĩguo watho wa ũiru rĩrĩa mũtumia angĩhĩngĩcania mĩthiĩre yake, ethaahie o arĩ na mũthuuri,|222
+audio/NUM_005-5-30.wav|kana rĩrĩa mũndũ mũrũme angĩnyiitwo nĩ ũiru nĩ ũndũ nĩegwĩkũũa mũtumia ũcio wake. Mũthĩnjĩri-Ngai arĩmũrũgamagia mbere ya Jehova na arũmĩrĩre watho ũcio wothe.|222
+audio/NUM_005-5-31.wav|Mũthuuriwe nĩagatuuo ndarĩ na ihĩtia o na rĩrĩkũ, no mũtumia ũcio nĩwe ũgaacookererwo nĩ mehia make.|222
+audio/NUM_006-6-2.wav|Arĩria andũ a Isiraeli, ũmeere atĩrĩ: ‘Mũndũ mũrũme kana mũndũ-wa-nja angĩenda kwĩhĩta mwĩhĩtwa wa mwanya,|222
+audio/NUM_006-6-2i.wav|ũrĩ mwĩhĩtwa wa kwĩyamũrĩra Jehova atuĩke Mũnaziri,no nginya atige kũnyua ndibei o na indo iria ingĩ ngagatu cia kũnyua,|222
+audio/NUM_006-6-3.wav|na ndakananyue thiki ĩthondeketwo kuuma kũrĩ ndibei kana kĩndũ kĩngĩ kĩgagatu gĩa kũnyua. Ndakananyue maaĩ ma thabibũ,|222
+audio/NUM_006-6-3i.wav|kana arĩe thabibũ, kana thabibũ iria nyũmithie|222
+audio/NUM_006-6-4.wav|Hĩndĩ ĩrĩa yothe arĩkoragwo arĩ Mũnaziri, ndakanarĩe kĩndũ gĩa kuuma he mũthabibũ, irĩ mbegũ kana makoni.|222
+audio/NUM_006-6-5.wav|Ihinda rĩothe rĩa mwĩhĩtwa ũcio wa kwĩyamũra, ndakanenjwo mũtwe. No nginya aikarage arĩ mũtheru o nginya ihinda rĩake rĩa kwĩyamũrĩra Jehova rĩthire;|222
+audio/NUM_006-6-6.wav|no nginya areke njuĩrĩ cia mũtwe wake ikũre iraihe. 6 Ihinda rĩu rĩothe eyamũrĩire Jehova ndakanakuhĩrĩrie kĩimba.|222
+audio/NUM_006-6-7.wav|O na ithe, kana nyina, kana mũrũ wa nyina, kana mwarĩ wa nyina angĩkua, ndakanethaahie nĩ ũndũ wao,|222
+audio/NUM_006-6-8.wav|tondũ arĩ na rũũri rwa kwĩyamũrĩra Ngai mũtwe.Ihinda rĩothe rĩa kwĩyamũra gwake arĩkoragwo aamũrĩirwo Jehova.|222
+audio/NUM_006-6-9.wav|Mũndũ angĩkua gĩkuũ kĩa narua arĩ ho, naguo ũndũ ũcio ũthaahie njuĩrĩ ĩrĩa aamũrĩte, no nginya enjwo mũtwe mũthenya wake wa gũtherio,|222
+audio/NUM_006-6-10.wav|Ningĩ mũthenya wa ĩnana no nginya atware ndirahũgĩ igĩrĩ kana tũtutuura twĩrĩ harĩ mũthĩnjĩri-Ngai hau itoonyero-inĩ rĩa Hema-ya-Gũtũnganwo.|222
+audio/NUM_006-6-11.wav|Nake mũthĩnjĩri-Ngai arute ĩmwe ĩtuĩke igongona rĩa kũhoroherio mehia, nayo ĩyo ĩngĩ ĩtuĩke nĩ iruta rĩa njino nĩguo ahoroherio,|222
+audio/NUM_006-6-11i.wav|nĩ ũndũ nĩehĩtie nĩgũkorwo arĩ hamwe na kĩimba. Mũthenya o ro ũcio no nginya aamũrĩre Jehova mũtwe wake rĩngĩ.|222
+audio/NUM_006-6-12.wav|No nginya eyamũrĩre Jehova ihinda rĩu rĩa kwĩyamũra, na no nginya arute gatũrũme ka mwaka ũmwe gatuĩke ka igongona rĩa mahĩtia.|222
+audio/NUM_006-6-12i.wav|Mĩthenya ĩrĩa mĩhĩtũku ndĩgũtarwo, tondũ nĩathaahirio ihinda rĩrĩa eyaamũrĩte.|222
+audio/NUM_006-6-13.wav|Na rĩrĩ, ũyũ nĩguo watho wa Mũnaziri ihinda rĩake rĩa kwĩyamũrĩra Ngai rĩathira. Nĩakarehwo itoonyero-inĩ rĩa Hema-ya-Gũtũnganwo.|222
+audio/NUM_006-6-14.wav|Hau nĩho akaarehe maruta make harĩ Jehova, namo nĩ: gatũrũme ka mwaka ũmwe gatarĩ na kaũũgũ gatuĩke ka iruta rĩa njino,|222
+audio/NUM_006-6-14i.wav|na kamwatĩ ka mwaka ũmwe karĩ igongona rĩa kũhoroheria mehia, na ndũrũme ĩmwe ĩtarĩ na kaũũgũ ĩrĩ iruta rĩa ũiguano,|222
+audio/NUM_006-6-15.wav|hamwe na maruta ma mũtu na maruta ma kũnyuuo, na gĩkabũ kĩa mĩgate ĩtarĩ na ndawa ya kũimbia, na keki cia mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, |222
+audio/NUM_006-6-15i.wav|na tũmĩgate tũhũthũ tũhakĩtwo maguta.Mũthĩnjĩri-Ngai nĩakaiga indo icio mbere ya Jehova,|222
+audio/NUM_006-6-17.wav|Nĩakarehe gĩkabũ kĩu kĩa mĩgate ĩtarĩ mĩimbie na arute ndũrũme ĩyo ĩrĩ igongona rĩa ũiguano kũrĩ Jehova, hamwe na igongona rĩayo rĩa mũtu na rĩa indo cia kũnyuuo.|222
+audio/NUM_006-6-18.wav|Ningĩ hau itoonyero-inĩ rĩa Hema-ya-Gũtũnganwo, Mũnaziri no nginya enjwo njuĩrĩ ĩrĩa aamũrĩte.|222
+audio/NUM_006-6-18i.wav|Nĩakoya njuĩrĩ ĩyo na amĩikie mwaki-inĩ ũrĩa ũrĩ rungu rwa igongona rĩu rĩa ũiguano.|222
+audio/NUM_006-6-19.wav|Thuutha wa Mũnaziri ũcio kwenjwo njuĩrĩ yake ya kwĩyamũra, mũthĩnjĩri-Ngai nĩ akoya kĩande gĩtherũkĩtio kĩa ndũrũme ĩyo,|222
+audio/NUM_006-6-19i.wav|na keki na tũmĩgate tũrĩa tũhũthũ kuuma gĩkabũ-inĩ kĩu, cierĩ itarĩ ndawa ya kũimbia.Mũthĩnjĩri-Ngai acooke acithũngũthie mbere ya Jehova,|222
+audio/NUM_006-6-20.wav|ituĩke igongona rĩa gũthũngũthio; nĩ nyamũre, na nĩ cia mũthĩnjĩri-Ngai, hamwe na gĩthũri kĩrĩa gĩthũngũthĩtio,|222
+audio/NUM_006-6-21.wav|Ũcio nĩguo watho wa Mũnaziri ũrĩa wĩhĩtaga kũrutĩra Jehova indo kũringana na ũrĩa eyaamũrĩte, hamwe na kĩrĩa kĩngĩ gĩothe angĩhota kũruta.|222
+audio/NUM_006-6-22.wav|Ningĩ Jehova akĩĩra Musa atĩrĩ, Ĩra Harũni na ariũ ake atĩrĩ, ‘Ũũ nĩguo mũrĩrathimaga andũ a Isiraeli. Meragei atĩrĩ:|222
+audio/NUM_006-6-24.wav|Jehova arokũrathima,na akũmenyagĩrĩre;Jehova arotũma ũthiũ wake ũkwarĩre,na agũkinyagĩrie wega wake;|222
+audio/NUM_006-6-26.wav|Jehova arogũtiirĩra gĩthiithi gĩake,na akũhe thayũ.|222
+audio/NUM_006-6-27.wav|Nĩ ũndũ ũcio athĩnjĩri-Ngai nĩmarĩgwetaga rĩĩtwa rĩakwa kũrĩ andũ a Isiraeli, na niĩ nĩndĩĩmarathimaga.|222
+audio/NUM_007-7-1.wav|Rĩrĩa Musa aarĩkirie kũhaanda Hema-ĩrĩa-Nyamũre, nĩamĩitĩrĩirie maguta o na akĩmĩamũrĩra Jehova hamwe na indo ciayo ciothe.|222
+audio/NUM_007-7-1i.wav|Ningĩ agĩitĩrĩria kĩgongona maguta, na agĩkĩamũra hamwe na indo ciakĩo ciothe.|222
+audio/NUM_007-7-2.wav|Ningĩ atongoria a Isiraeli, atongoria a nyũmba ciao arĩa maarĩ atongoria a mĩhĩrĩga arĩa maarũgamĩrĩire andũ arĩa maatarĩtwo, makĩrehe maruta.|222
+audio/NUM_007-7-3.wav|Maareheire Jehova iheo ikuuĩtwo nĩ ngaari ithathatũ cia ngʼombe irĩ humbĩre, hamwe na ndegwa ikũmi na igĩrĩ, ndegwa ĩmwe ĩkarutwo nĩ o mũtongoria,|222
+audio/NUM_007-7-3i.wav|na ngaari ĩmwe ĩkarutwo nĩ atongoria eerĩ. Indo icio nĩcio maarehire mbere ya Hema-ĩrĩa-Nyamũre.|222
+audio/NUM_007-7-4.wav|Nake Jehova akĩĩra Musa atĩrĩ: Ĩtĩkĩra indo icio kuuma kũrĩ o, nĩguo ihũthĩrwo wĩra-inĩ wa Hema-ya-Gũtũnganwo. |222
+audio/NUM_007-7-5.wav|Ũciheane kũrĩ Alawii o ta ũrĩa wĩra wa mũndũ o mũndũ ũkũbatara.Nĩ ũndũ ũcio Musa akĩoya ngaari icio na ndegwa icio agĩciheana kũrĩ Alawii.|222
+audio/NUM_007-7-7.wav|Aaheire Agerishoni ngaari igĩrĩ na ndegwa inya, o ta ũrĩa wĩra wao wabataraga,|222
+audio/NUM_007-7-8.wav|ningĩ akĩhe Amerari ngaari inya na ndegwa inyanya, o ta ũrĩa wĩra wao wabataraga. Othe maatongoragio nĩ Ithamaru mũrũ wa Harũni, ũrĩa mũthĩnjĩri-Ngai.|222
+audio/NUM_007-7-9.wav|No Musa ndaigana kũhe Akohathu kĩndũ o nakĩ, tondũ wĩra wao warĩ wa gũkuuaga indo iria nyamũre na ciande ciao, nĩgũkorwo ũcio nĩguo warĩ wĩra ũrĩa meehokeirwo.|222
+audio/NUM_007-7-10.wav|Rĩrĩa kĩgongona gĩaitĩrĩirio maguta, atongoria nĩmarehire maruta mao nĩguo kĩamũrwo, na makĩmaiga mbere ya kĩgongona kĩu.|222
+audio/NUM_007-7-11.wav|Nĩ ũndũ Jehova nĩeerĩte Musa atĩrĩ, “O mũthenya, mũtongoria ũmwe arĩrehaga maruta make nĩ ũndũ wa kwamũrwo gwa kĩgongona.|222
+audio/NUM_007-7-12.wav|Mũndũ ũrĩa warehire maruta make mũthenya wa mbere aarĩ Nahashoni mũrũ wa Aminadabu wa mũhĩrĩga wa Juda.|222
+audio/NUM_007-7-13.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩmwe rĩa mĩrongo ĩtatũ,* na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-13i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe yaiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-14.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi,* ĩiyũrĩtio ũbumba; 15 na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-16.wav|na gatũrũme kamwe ka mwaka ũmwe, Nĩ ũndũ wa iruta rĩa njino;na thenge ĩmwe ya igongona rĩa kũhoroherio mehia;|222
+audio/NUM_007-7-17.wav|na ndegwa igĩrĩ, na ndũrũme ithano, na thenge ithano na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-18.wav| Ici nĩcio indo iria ciarutirwo nĩ Nahashoni mũrũ wa Aminadabu.Mũthenya wa keerĩ Nethaneli mũrũ wa Zuaru, mũtongoria wa Aisakaru,|222
+audio/NUM_007-18i.wav|Mũthenya wa keerĩ Nethaneli mũrũ wa Zuaru, mũtongoria wa Aisakaru, nake akĩrehe maruta make.|222
+audio/NUM_007-7-19.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩmwe rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-19i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe yaiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-20.wav| na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-21.wav| na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ,|222
+audio/NUM_007-7-22.wav|na ndũrũme ithano, na thenge ithano na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-23.wav|na ndegwa igĩrĩ, na ndũrũme ithano, na thenge ithano na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-24.wav|Mũthenya wa gatatũ Eliabu mũrũ wa Heloni, mũtongoria wa andũ a Zebuluni, nake akĩrehe maruta make.|222
+audio/NUM_007-7-25.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩmwe rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-25i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe yaiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-26.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe, na gatũrũme kamwe ka mwaka ũmwe,|222
+audio/NUM_007-7-28.wav|nĩ ũndũ wa iruta rĩa njino;na thenge ĩmwe ya igongona rĩa kũhoroherio mehia;na ndegwa igĩrĩ, na ndũrũme ithano,|222
+audio/NUM_007-7-29.wav|na thenge ithano na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-30.wav|Mũthenya wa kana, Elizuru mũrũ wa Shedeuru, mũtongoria wa andũ a Rubeni, nake akĩrehe maruta make.|222
+audio/NUM_007-7-31.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩmwe rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya kũminjaminjĩria ya betha ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-31i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe yaiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-32.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba;na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-33.wav|na gatũrũme ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ,|222
+audio/NUM_007-7-34.wav|na ndũrũme ithano, na thenge ithano na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-35.wav|Ici nĩcio indo iria ciarutirwo nĩ Elizuru mũrũ wa Shedeuru.Mũthenya wa gatano, Shelumieli mũrũ wa Zurishadai,|222
+audio/NUM_007-7-36.wav|Mũthenya wa gatano, Shelumieli mũrũ wa Zurishadai, mũtongoria wa andũ a Simeoni, nake akĩrehe maruta make.|222
+audio/NUM_007-7-37.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-37i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-38.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-39.wav|na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino;na thenge ĩmwe ya igongona rĩa kũhoroherio mehia;|222
+audio/NUM_007-7-41.wav|na ndegwa igĩrĩ, na ndũrũme ithano, na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-41i.wav| Ici nĩcio indo iria ciarutirwo nĩ Shelumieli mũrũ wa Zurishadai.Mũthenya wa gatandatũ Eliasafu mũrũ wa Deueli,|222
+audio/NUM_007-7-42.wav|Mũthenya wa gatandatũ Eliasafu mũrũ wa Deueli, mũtongoria wa andũ a Gadi, nake akĩrehe maruta make.|222
+audio/NUM_007-7-43.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-43i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe iĩyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-44.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-45.wav|na gatũrũme ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ, |222
+audio/NUM_007-7-47.wav|na ndũrũme ithano, na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-47i.wav|Ici nĩcio indo iria ciarutirwo nĩ Eliasafu mũrũ wa Deueli.Mũthenya wa mũgwanja Elishama mũrũ wa Amihudu,|222
+audio/NUM_007-7-48.wav|Mũthenya wa mũgwanja Elishama mũrũ wa Amihudu, mũtongoria wa andũ a Efiraimu, nake akĩrehe maruta make.|222
+audio/NUM_007-7-49.wav|Indo iria aarutire ciarĩ thaani ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-49i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-50.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba;na gategwa kamwe, na ndũrũme ĩmwe, na gatũrũme kamwe ka mwaka ũmwe,|222
+audio/NUM_007-7-51.wav|nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ, na ndũrũme ithano,|222
+audio/NUM_007-7-53.wav|na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano. Ici nĩcio indo iria ciarutirwo nĩ Elishama mũrũ wa Amihudu.|222
+audio/NUM_007-7-54.wav|Mũthenya wa kanana Gamalieli mũrũ wa Pedazuru, mũtongoria wa andũ a Manase, nake akĩrehe maruta make.|222
+audio/NUM_007-7-55.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-55i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-56.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-57.wav|na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia;|222
+audio/NUM_007-7-59.wav|na ndegwa igĩrĩ, na ndũrũme ithano, na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-59i.wav|Ici nĩcio indo iria ciarutirwo nĩ Gamalieli mũrũ wa Pedazuru.Mũthenya wa kenda,|222
+audio/NUM_007-7-60.wav|Mũthenya wa kenda, Abidani mũrũ wa Gideoni, mũtongoria wa andũ a Benjamini, nake akĩrehe maruta make.|222
+audio/NUM_007-7-61.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-61i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-62.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-63.wav|na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia;|222
+audio/NUM_007-7-65.wav|na ndegwa igĩrĩ, na ndũrũme ithano, na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-66.wav|Mũthenya wa ikũmi Ahiezeri mũrũ wa Amishadai, mũtongoria wa andũ a Dani, nake akĩrehe maruta make.|222
+audio/NUM_007-7-67.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-67i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-68.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-70.wav|na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ,|222
+audio/NUM_007-7-71.wav|na ndegwa igĩrĩ, na ndũrũme ithano, na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-71i.wav|Ici nĩcio indo iria ciarutirwo nĩ Ahiezeri mũrũ wa Amishadai.Mũthenya wa ikũmi na ũmwe,|222
+audio/NUM_007-7-72.wav|Mũthenya wa ikũmi na ũmwe, Pagieli mũrũ wa Okirani, mũtongoria wa andũ a Asheri, nake akĩrehe maruta make.|222
+audio/NUM_007-7-73.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-73i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-74.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-76.wav|na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ,|222
+audio/NUM_007-7-77.wav|na ndũrũme ithano, na thenge ithano na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-77i.wav|Ici nĩcio indo iria ciarutirwo nĩ Pagieli mũrũ wa Okirani.Mũthenya wa ikũmi na ĩĩrĩ Ahira mũrũ wa Enani,|222
+audio/NUM_007-7-78.wav|Mũthenya wa ikũmi na ĩĩrĩ Ahira mũrũ wa Enani, mũtongoria wa andũ a Nafitali, nake akĩrehe maruta make.|222
+audio/NUM_007-7-79.wav|Indo iria aarutire ciarĩ thaani ĩmwe ya betha ya ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri ĩmwe ya betha ya kũminjaminjĩria ya ũritũ wa cekeri mĩrongo mũgwanja,|222
+audio/NUM_007-7-79i.wav|cierĩ kũringana na gĩthimo gĩa cekeri ya harĩa haamũre, na o ĩmwe ĩiyũrĩtio mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, ũrĩ iruta rĩa mũtu;|222
+audio/NUM_007-7-80.wav|na thaani ĩmwe nene ya thahabu ya ũritũ wa cekeri ikũmi, ĩiyũrĩtio ũbumba; na gategwa kamwe, na ndũrũme ĩmwe,|222
+audio/NUM_007-7-81.wav| na gatũrũme kamwe ka mwaka ũmwe, nĩ ũndũ wa iruta rĩa njino; na thenge ĩmwe ya igongona rĩa kũhoroherio mehia; na ndegwa igĩrĩ,|222
+audio/NUM_007-7-83.wav|na ndũrũme ithano, na thenge ithano, na tũtũrũme tũtano twa mwaka ũmwe, irutwo irĩ igongona rĩa ũiguano.|222
+audio/NUM_007-7-84.wav|Maya nĩmo maarĩ maruta ma atongoria a andũ a Isiraeli nĩ ũndũ wa kwamũrwo gwa kĩgongona rĩrĩa gĩaitagĩrĩrio maguta: ciarĩ thaani cia betha ikũmi na igĩrĩ na mbakũri cia betha cia kũminjaminjĩria ikũmi na igĩrĩ|222
+audio/NUM_007-7-84i.wav|na thaani nene cia thahabu ikũmi na igĩrĩ. Thaani o ĩmwe ya betha yarĩ na ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ,|222
+audio/NUM_007-7-85.wav|Thaani o ĩmwe ya betha yarĩ na ũritũ wa cekeri igana rĩa mĩrongo ĩtatũ, na mbakũri o ĩmwe ya kũminjaminjĩria yarĩ na ũritũ wa cekeri mĩrongo mũgwanja.|222
+audio/NUM_007-7-85i.wav|Thaani cia betha ciothe ciarĩ na ũritũ wa cekeri ngiri igĩrĩ na magana mana, kũringana na gĩthimo gĩa cekeri ya harĩa haamũre.|222
+audio/NUM_007-7-86.wav|Thaani iria nene ikũmi na igĩrĩ cia thahabu ciyũrĩtio ũbumba ciarĩ na ũritũ wa cekeri ikũmi o ĩmwe, kũringana na gĩthimo gĩa cekeri ya harĩa haamũre.|222
+audio/NUM_007-7-86i.wav|Thaani icio nene cia thahabu ciothe ciarĩ na ũritũ wa cekeri igana rĩa mĩrongo ĩĩrĩ.|222
+audio/NUM_007-7-87.wav|Mũigana wothe wa nyamũ cia kũrutwo igongona rĩa njino warĩ tũtegwa ikũmi na twĩrĩ, na ndũrũme ikũmi na igĩrĩ|222
+audio/NUM_007-7-87i.wav|na tũtũrũme ikũmi na twĩrĩ twa mwaka ũmwe, hamwe na maruta ma cio ma mũtu. Thenge ikũmi na igĩrĩ ciarutirwo irĩ igongona rĩa kũhoroherio mehia.|222
+audio/NUM_007-7-88.wav|Mũigana wa nyamũ ciothe cia igongona rĩa ũiguano ciarĩ ndegwa mĩrongo ĩĩrĩ na inya, na ndũrũme mĩrongo ĩtandatũ,|222
+audio/NUM_007-7-88i.wav|na thenge mĩrongo ĩtandatũ, na tũtũrũme mĩrongo ĩtandatũ twa mwaka ũmwe.|222
+audio/NUM_007-7-88j.wav|Macio nĩmo maarĩ maruta ma kwamũrwo gwa kĩgongona thuutha wa kĩarĩkia gũitĩrĩrio maguta.|222
+audio/NUM_007-7-89.wav|Rĩrĩa Musa atoonyire Hema-ya-Gũtũnganwo kwaria na Jehova-rĩ, nĩaiguire mũgambo ũkĩmwarĩria kuuma gatagatĩ ka makerubi marĩa meerĩ maarĩ igũrũ rĩa gĩtĩ gĩa tha,|222
+audio/NUM_008-8-2.wav|Arĩria Harũni, ũmwĩre atĩrĩ, ‘Hĩndĩ ĩrĩa ũrĩbangaga matawa marĩa mũgwanja, mabangage nĩguo ũtheri wamo waragĩre mwena wa na mbere wa mũtĩ ũcio wa kũigĩrĩrwo matawa.|222
+audio/NUM_008-8-3.wav|Harũni agĩĩka o ta ũguo; akĩbanga matawa macio amaroretie mwena ũrĩa ũtheri wamo watheragĩra hau mbere ya mũtĩ ũcio maaigagĩrĩrwo,|222
+audio/NUM_008-8-4.wav|o ta ũrĩa Jehova aathĩte Musa gwĩkwo.Mũtĩ ũcio wa kũigĩrĩrwo matawa wathondeketwo ũũ: wathondeketwo na thahabu ya gũturwo,|222
+audio/NUM_008-8-4i.wav|Mũtĩ ũcio wa kũigĩrĩrwo matawa wathondeketwo ũũ: wathondeketwo na thahabu ya gũturwo, kuuma gĩtina-inĩ kĩaguo o nginya kũrĩa mahũa maguo maarĩ.|222
+audio/NUM_008-8-4j.wav|Mũhianĩre wa mũtĩ ũcio wa kũigĩrĩrwo matawa wathondeketwo o ta ũrĩa mũhianĩre waguo wonetio Musa nĩ Jehova.|222
+audio/NUM_008-8-5.wav|Nake Jehova akĩĩra Musa atĩrĩ: Oya Alawii ũmeherie kuuma kũrĩ andũ arĩa angĩ a Isiraeli, ũmatherie mathirwo nĩ thaahu.|222
+audio/NUM_008-8-7.wav|Maminjaminjĩrie maaĩ ma kũmatheria thaahu; macooke menje njuĩrĩ cia mĩĩrĩ yao kũndũ guothe na mathambie nguo ciao, nĩguo metherie.|222
+audio/NUM_008-8-8.wav|Ningĩ ũreke moe gategwa hamwe na iruta rĩako rĩa mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta;|222
+audio/NUM_008-8-9.wav|nawe ũcooke woe gategwa kangĩ ga keerĩ ga kũrutwo igongona rĩa kũhoroherio mehia. Ũrehe Alawii acio mbere ya Hema-ya-Gũtũnganwo,|222
+audio/NUM_008-8-10.wav|na ũcooke wĩte kĩrĩndĩ gĩothe kĩa andũ a Isiraeli hamwe. Ũrehe Alawii acio mbere ya Jehova, nao andũ a Isiraeli mamaigĩrĩre moko mĩtwe.|222
+audio/NUM_008-8-11.wav|Nake Harũni arutĩre Jehova Alawii acio hau mbere yake taarĩ igongona rĩa gũthũngũthio rĩrutĩtwo nĩ andũ a Isiraeli,|222
+audio/NUM_008-8-12.wav|Thuutha ũcio Alawii maigĩrĩre moko mao mĩtwe ya ndegwa icio, ũcirutĩre Jehova, ĩmwe ĩtuĩke ya igongona rĩa kũhoroherio mehia|222
+audio/NUM_008-8-12i.wav|na ĩyo ĩngĩ ĩtuĩke iruta rĩa njino, nĩgeetha Alawii mahoroherio. Reke Alawii marũgame mbere ya Harũni na ariũ ake,|222
+audio/NUM_008-8-13.wav|Reke Alawii marũgame mbere ya Harũni na ariũ ake, na ũcooke ũmarutĩre Jehova taarĩ igongona rĩa gũthũngũthio. |222
+audio/NUM_008-8-14.wav|Ũguo nĩguo ũkaamũra Alawii, ũmeherie kuuma kũrĩ andũ arĩa angĩ a Isiraeli, nao Alawii acio matuĩke akwa.|222
+audio/NUM_008-8-15.wav|Warĩkia gũtheria Alawii acio na kũmaruta matuĩke ta igongona rĩa gũthũngũthio-rĩ, nĩmarutage wĩra wao Hema-inĩ-ya-Gũtũnganwo.|222
+audio/NUM_008-8-16mp3|Acio nĩo andũ a Isiraeli arĩa mekũheanwo kũrĩ niĩ biũ. Ndĩmeyoeire marĩ akwa ithenya rĩa marigithathi ma ciana cia tũhĩĩ kuuma kũrĩ mũtumia o wothe Mũisiraeli.|222
+audio/NUM_008-8-17.wav|Irigithathi o rĩothe rĩa njamba gũkũ Isiraeli, kana nĩ rĩa mũndũ kana nĩ rĩa nyamũ-rĩ, nĩ rĩakwa.|222
+audio/NUM_008-8-17i.wav|Rĩrĩa ndooragire marigithathi mothe kũu bũrũri wa Misiri-rĩ, hĩndĩ ĩyo nĩguo ndaamaamũrire matuĩke akwa mwene.|222
+audio/NUM_008-8-18.wav|Na niĩ nĩ njoete Alawii ithenya rĩa marigithathi mothe ma ciana cia tũhĩĩ thĩinĩ wa Isiraeli. Thĩinĩ wa andũ a Isiraeli othe-rĩ,|222
+audio/NUM_008-8-19.wav|nĩheanĩte Alawii matuĩke iheo kũrĩ Harũni na ariũ ake, na marutage wĩra Hema-inĩ-ĩno-ya-Gũtũnganwo handũ ha andũ a Isiraeli,|222
+audio/NUM_008-8-19i.wav|na mamahorohagĩrie nĩgeetha andũ a Isiraeli matikae kũniinwo na mũthiro hĩndĩ ĩrĩa mangĩkuhĩrĩria handũ-harĩa-haamũre.|222
+audio/NUM_008-8-20.wav|Musa, na Harũni marĩ na kĩrĩndĩ kĩu gĩothe kĩa andũ a Isiraeli magĩĩka Alawii o ta ũguo Jehova aathĩte Musa. Alawii acio magĩĩtheria na magĩthambia nguo ciao.|222
+audio/NUM_008-8-21.wav|Harũni nake agĩcooka akĩmaruta ta igongona rĩa gũthũngũthio mbere ya Jehova, na akĩmahoroheria nĩguo amatherie.|222
+audio/NUM_008-8-22.wav|Thuutha ũcio, Alawii magĩtoonya Hema-inĩ-ĩyo-ya-Gũtũnganwo marutage wĩra wao marũgamĩrĩirwo nĩ Harũni na ariũ ake.|222
+audio/ISA_001-1-1.wav|Maya nĩmo maũndũ marĩa maaguũrĩirio Isaia mũrũ wa Amozu, makoniĩ Juda na Jerusalemu hĩndĩ ya wathani wa Uzia, na wa Jothamu, na wa Ahazu, na wa Hezekia,|222
+audio/ISA_001-1-2.wav|Atĩrĩrĩ, wee igũrũ, ta thikĩrĩria! Nawe thĩ ta igua! Nĩgũkorwo Jehova nĩarĩtie akoiga atĩrĩ:|222
+audio/ISA_001-1-2i.wav|Niĩ heete ciana irio, ngacirera igakũra,no cio ikaanemera.Ndegwa nĩyũũĩ mwene yo,nayo ndigiri ĩkamenya mũharatĩ wa mwene yo,|222
+audio/ISA_001-1-3.wav|no Isiraeli ndarĩ ũndũ ooĩ,andũ akwa nĩmagĩte ũmenyo.”Hĩ! Kaĩ mũrĩ rũrĩrĩ rwĩhagia-ĩ. Mũrĩ andũ matitikĩte mahĩtia,|222
+audio/ISA_001-1-4.wav|na rũruka rwa andũ mekaga ũũru,na ciana ciĩrutĩire gũthũkia maũndũ!Nĩmatiganĩirie Jehova;|222
+audio/ISA_001-1-5.wav|nĩmamenete Ũrĩa Mũtheru wa Isiraeli,makamũhutatĩra, magacooka na thuutha. Nĩ kĩĩ gĩgũtũma mwende gũikara mũkĩhũũragwo?|222
+audio/ISA_001-1-5i.wav|Nĩ kĩĩ gĩgũtũma mũthiĩ o na mbere kũrema? Mũtwe wothe nĩmũtihangie, nayo ngoro yothe ĩkanyamarĩka.|222
+audio/ISA_001-1-6.wav| Kuuma ikinya rĩa kũgũrũ nginya mũtwe gũtirĩ handũ hagima: no nguraro theri, na mĩtũnda, na ironda cia ndĩĩra itarĩ thambie,|222
+audio/ISA_001-1-7.wav|kana ikoohwo, kana ikororoiyo na maguta. Bũrũri wanyu ũkirĩte ihooru, matũũra manyu manene magacinwo na mwaki;|222
+audio/ISA_001-1-7i.wav|mĩgũnda yanyu ĩramathwo ĩgatigwo ũtheri nĩ andũ a kũngĩ o mũkĩonaga, ĩkoonũhwo ta ĩngʼaũranĩtio nĩ ageni.|222
+audio/ISA_001-1-8.wav| Mwarĩ wa Zayuni atiganĩirio ta gĩthũnũ kĩrĩ mũgũnda wa mĩthabibũ, agatiganĩrio ta kanyũmba karĩ mũgũnda wa marenge,|222
+audio/ISA_001-1-9.wav|o na ta itũũra inene rĩthiũrũrũkĩirio nĩ thũ ikĩenda kũrĩtunyana.Tiga Jehova Mwene-Hinya-Wothe aatũtigĩirie matigari manini ma andũ-rĩ, tũngĩtuĩkĩte ta Sodomu,|222
+audio/ISA_001-1-10.wav|na tũkahaana ta Gomora! Thikĩrĩriai kiugo kĩa Jehova, inyuĩ mwathanaga Sodomu; na mũigue watho wa Ngai witũ, inyuĩ andũ a Gomora!|222
+audio/ISA_001-1-11.wav|Magongona macio manyu mũndutagĩra maingĩ-rĩ, nĩ ma kĩ kũrĩ niĩ? Ũguo nĩguo Jehova ekũũria. Nĩnjiganĩtwo nĩ magongona ma njino,|222
+audio/ISA_001-1-11i.wav|na magongona ma ndũrũme, na maguta ma nyamũ noru; niĩ ndikenagĩra thakame ya ndegwa, na ya tũtũrũme, o na ya mbũri.|222
+audio/ISA_001-1-12.wav|Nũũ ũkoragwo amwĩrĩte mũndutĩre magongona macio rĩrĩa mũgũũka mbere yakwa kũũhooya, mũkĩrangaga nja cia nyũmba yakwa?|222
+audio/ISA_001-1-13.wav|Tigai gũcooka kũrehe maruta ma tũhũ! Ũbumba wanyu nĩ kĩndũ kĩa magigi harĩ niĩ. Ndingĩhota gũkirĩrĩria ciũngano cianyu cia waganu:|222
+audio/ISA_001-1-13i.wav|mĩcemanio yanyu ya Karũgamo ka Mweri, na Thabatũ, o na ciathĩ iria njathane.Ngoro yakwa nĩĩthũire ciathĩ cianyucia Karũgamo ka Mweri, o na ciathĩ iria njathane.|222
+audio/ISA_001-1-15.wav|Maũndũ macio matuĩkĩte mũrigo harĩ niĩ,nĩmanogetie. Hĩndĩ ĩrĩa mwambararia moko manyu na igũrũ mũkĩhooya, nĩndĩrĩmũhithaga maitho makwa ndikamuone;|222
+audio/ISA_001-1-15i.wav|o na mũngĩhooya mahooya maingĩ ndirĩmũiguaga. Nĩgũkorwo moko manyu maiyũrĩtwo nĩ thakame; mwĩthambei mwĩtherie.|222
+audio/ISA_001-1-16.wav|Eheriai ciĩko cianyu njũru maitho-inĩ makwa!Tigai gwĩka maũndũ mooru, mwĩrutei gwĩkaga wega! Thingatagai ciira wa kĩhooto,|222
+audio/ISA_001-1-17.wav|na mũkoomĩrĩria arĩa ahinyĩrĩrie.Tuagai ciira wa ciana cia ngoriai na kĩhooto, na mũthaithanagĩrĩre mũtumia wa ndigwa.|222
+audio/ISA_001-1-18.wav|Jehova ekuuga atĩrĩ, Ũkai tũciire.O na mehia manyu mangĩkorwo matunĩhĩte ta gakarakũ-rĩ, nĩmagathera o ta ira;|222
+audio/ISA_001-1-19.wav|o na maatuĩka matunĩhĩte ta thakame, nĩmakerũha o ta guoya wa ngʼondu.Mũngĩnjigua na mũnjathĩkĩre, nĩ mũrĩrĩĩaga indo iria njega mũno cia bũrũri;|222
+audio/ISA_001-1-20.wav|no mũngĩrema na mũrege gwathĩka, mũkaaniinwo na rũhiũ rwa njora. Nĩgũkorwo nĩ kanua ka Jehova koigĩte ũguo.|222
+audio/ISA_001-1-21.wav|Hĩ! Kaĩ itũũra inene rĩrĩa rĩĩhokeku nĩrĩtuĩkĩte ta mũmaraya-ĩ! Hĩndĩ ĩmwe rĩaiyũrĩte ũtuanĩri ciira wa kĩhooto;|222
+audio/ISA_001-1-22.wav|ũthingu nĩguo watũũraga thĩinĩ warĩo, no rĩu nĩ oragani matũũraga kuo! Betha yanyu ĩtuĩkĩte gĩko, ndibei yanyu ĩrĩa njega mũno ĩgatukanio na maaĩ.|222
+audio/ISA_001-1-23.wav|Andũ anyu arĩa mamwathaga nĩ kũrema maremete,magatuĩka a thiritũ ya aici; othe nĩmendete mahaki, nao mahanyũkanagia na indo cia kũheo.|222
+audio/ISA_001-1-23i.wav|Maticiiragĩra ciana cia ngoriai na kĩhooto; na matithikagĩrĩria ciira wa mũtumia wa ndigwa. Nĩ ũndũ ũcio, Mwathani, Jehova Mwene-Hinya-Wothe,|222
+audio/ISA_001-1-24.wav|O we Mwene Hinya wa Isiraeli, ekuuga atĩrĩ, “Hĩ! Nĩngaitĩrĩria amuku akwa mangʼũrĩ makwa, na ndĩĩrĩhĩrie harĩ thũ ciakwa.|222
+audio/ISA_001-1-25.wav|Nĩngagũũkĩrĩra na guoko gwakwa; ngagũtheria gĩko gĩaku gĩthire biũ, na maũndũ maku mothe marĩa matarĩ matheru ndĩmatherie.|222
+audio/ISA_001-1-26.wav|Aciirithania aku ngaatũma matuĩke o ta ũrĩa maatariĩ matukũ-inĩ ma tene, na aheani kĩrĩra aku o ta ũrĩa maatariĩ kĩambĩrĩria-inĩ.|222
+audio/ISA_001-1-26i.wav|Thuutha ũcio ũgeetagwo Itũũra Inene rĩa Ũthingu, o na Itũũra Inene Rĩĩhokeku.|222
+audio/ISA_001-7-27.wav|Itũũra rĩa Zayuni rĩgaakũũrwo na ciira wa kĩhooto, nao andũ a rĩo arĩa merirĩte makũũrwo na ũthingu.|222
+audio/ISA_001-1-28.wav|No andũ arĩa aremi na arĩa ehia makaaniinwo hamwe, nao arĩa matiganagĩria Jehova nĩmagathira biũ.|222
+audio/ISA_001-1-29.wav|Nĩmũgaconoka nĩ ũndũ wa mĩgandi ĩyo mĩamũre mũtũire mũkenagĩra; nĩmũkaigua thoni nĩ ũndũ wa mĩgũnda ĩyo mwĩthuurĩire.|222
+audio/ISA_001-1-30.wav|Mũgaatuĩka ta mũgandi ũrahooha mathangũ, mũtuĩke ta mũgũnda ũtarĩ maaĩ. Mũndũ ũrĩa ũrĩ hinya agaatuĩka maragara,|222
+audio/ISA_001-1-31.wav|naguo wĩra wake ũtuĩke thandĩ; we na wĩra wake nĩmakahĩa hamwe, haage mũndũ wa kũhoria mwaki ũcio.|222
+audio/ISA_002-2-1.wav|Ũyũ nĩguo ũhoro ũrĩa Isaia mũrũ wa Amozu onire ũkoniĩ Juda na Jerusalemu:Matukũ-inĩ ma kũrigĩrĩria kĩrĩma kĩa hekarũ ya Jehova nĩgĩkahaandwo|222
+audio/ISA_002-2-2.wav|kĩrĩ kĩo kĩnene gatagatĩ ka irĩma iria ingĩ; nĩgĩkambarario igũrũ rĩa tũrĩma tũrĩa tũngĩ, nao andũ a ndũrĩrĩ nĩkuo magaathiiaga.|222
+audio/ISA_002-2-3.wav|Ndũrĩrĩ nyingĩ nĩigathiĩ kuo ikiugaga atĩrĩ,Ũkai, twambate tũthiĩ kĩrĩma-inĩ kĩa Jehova, tũthiĩ nyũmba ya Ngai wa Jakubu.|222
+audio/ISA_002-2-3i.wav|Nĩagatũruta ũhoro wa mĩthiĩre yake, nĩgeetha tũgeragĩre njĩra ciake. Nĩgũkorwo Zayuni nĩgũkoima ũtaarani,|222
+audio/ISA_002-2-4.wav|nakuo Jerusalemu kuume ndũmĩrĩri ya Jehova. Nake nĩagatuithanagia ndũrĩrĩ ciira, na aiguithanie irĩndĩ nyingĩ.|222
+audio/ISA_002-2-4i.wav|Hiũ ciao cia njora magaacithondeka ituĩke mĩraũ ya kũrĩma, namo matimũ mao mamathondeke matuĩke hiũ cia gũceeha mĩtĩ.|222
+audio/ISA_002-2-4j.wav|Gũtirĩ rũrĩrĩ rũgaacooka kũrũa na rũrĩrĩ rũrĩa rũngĩ na rũhiũ rwa njora, o na kana merute ũhoro wa mbaara hĩndĩ ĩngĩ.|222
+audio/ISA_002-2-5.wav|tĩrĩrĩ wee nyũmba ya Jakubu, ũkaai tũthiiage tũmũrĩkĩirwo nĩ ũtheri wa Jehova. Mũthenya wa Jehova Wee nĩũtiganĩirie andũ aku, o acio a nyũmba ya Jakubu.|222
+audio/ISA_002-2-6.wav|Nao marũmĩtie mũno mĩtugo na irĩra cia andũ a mwena wa irathĩro; maragũraga ta Afilisti, na makagĩa thiritũ na andũ matooĩ Ngai.|222
+audio/ISA_002-2-7.wav|Bũrũri wao ũiyũrĩte betha na thahabu, igĩĩna ciao itingĩthira. Bũrũri wao ũiyũrĩte mbarathi; na ngaari ciao cia ita itingĩtarĩka.|222
+audio/ISA_002-2-8.wav|Bũrũri wao ũiyũrĩte mĩhianano ya kũhooywo;mainamagĩrĩra wĩra wa moko mao, o indo iria mathondekete na ciara ciao. Nĩ ũndũ ũcio mũndũ nĩakaharũrũkio,|222
+audio/ISA_003-3-1.wav|Atĩrĩrĩ, Mwathani, Jehova Mwene-Hinya-Wothe, arĩ hakuhĩ kwehereria Jerusalemu na Juda ũteithio wao na kĩrĩa kĩmatiiragĩrĩra, amehererie ũteithio wothe wa irio na wa maaĩ,|222
+audio/ISA_003-3-2.wav|o na amehererie mũndũ ũrĩa njamba na mũrũi wa mbaara, na mũtuanĩri ciira na mũnabii, na mũragũri na mũthuuri wa kĩama,|222
+audio/ISA_003-3-3.wav|na mũtongoria wa gĩkundi gĩa thigari mĩrongo ĩtano, na mũheani kĩrĩra, na mũbundi mũũgĩ, o na mũndũ-mũgo mũũgĩ.|222
+audio/ISA_003-3-4.wav|Tũhĩĩ nĩtuo ngaatua anene ao; na maathagwo nĩ tũkenge. Andũ nĩmakahiinyanĩrĩria: o mũndũ akaahinyĩrĩria ũrĩa ũngĩ,|222
+audio/ISA_003-3-5.wav|mũndũ wa itũũra okĩrĩre mũndũ wa itũũra rĩake. Arĩa anini nĩmagookĩrĩra arĩa akũrũ, nao arĩa matarĩ ngumo mokĩrĩre mũndũ ũrĩa mũtĩĩku.|222
+audio/ISA_003-3-6.wav|Mũndũ nĩakanyiita ũmwe wa ariũ a nyinaarĩ gwa ithe mũciĩ, amwĩre atĩrĩ, Wee ũrĩ na nguo ya igũrũ, tuĩka mũtongoria witũ;|222
+audio/ISA_003-3-6i.wav|ũreke kũndũ gũkũ kwanangĩtwo kũgĩe wathani-inĩ waku! Nowe nĩakaanĩrĩra mũthenya ũcio oige atĩrĩ, Niĩ ndirĩ na kĩhonia.|222
+audio/ISA_003-3-7.wav|Nowe nĩakaanĩrĩra mũthenya ũcio oige atĩrĩ,Niĩ ndirĩ na kĩhonia. Nĩgũkorwo gwakwa mũciĩ gũtirĩ irio kana nguo, tigai kũndua mũtongoria wa andũ.|222
+audio/ISA_003-3-8.wav|Nĩgũkorwo Jerusalemu nĩkũratũgũũga, nakuo Juda nĩkũragũa; ciugo na ciĩko ciakuo nĩirokĩrĩra Jehova na makangʼathĩria thiithi wake ũrĩ riiri.|222
+audio/ISA_003-3-9.wav| Ithiithi ciao nĩcio ciumbũraga ũrĩa mahaana; maanĩkaga mehia mao o ta ma Sodomu; o na matimahithaga. Kaĩ marĩ na haaro-ĩ!|222
+audio/ISA_003-3-10.wav|Ha ũhoro wa andũ arĩa athingu, meerei atĩ nĩmakagaacĩra; nĩgũkorwo nĩmakaarĩĩaga maciaro ma maũndũ marĩa maaneka.|222
+audio/ISA_003-3-11.wav| No andũ arĩa aaganu, meerei atĩrĩ: kaĩ marĩ na haro-ĩ! Nĩgũkorwo mwanangĩko ũrĩ igũrũ rĩao! Nao makaarĩhwo kũringana na wĩra wa moko mao.|222
+audio/ISA_003-3-12.wav|Andũ akwa mahinyagĩrĩrio nĩ ciana, nao andũ-a-nja nĩo mamaathaga. Atĩrĩrĩ inyuĩ andũ akwa, atongoria anyu nĩo mamũhĩtithagia,|222
+audio/ISA_003-3-13.wav|magatũma muume njĩra ĩrĩa yagĩrĩire. Jehova nĩaikarĩire gĩtĩ gĩake iciirĩro-inĩ; akarũgama nĩguo aciirithie andũ.|222
+audio/ISA_003-3-14.wav|Jehova nĩarĩkĩtie gũtuĩra athuuri na atongoria a andũ ake ciira, akameera atĩrĩ: Nĩ inyuĩ mwanangĩte mũgũnda wakwa wa mĩthabibũ; o na indo iria mũtunyĩte athĩĩni irĩ thĩinĩ wa nyũmba cianyu.|222
+audio/ISA_003-3-15.wav|Mũhehenjaga andũ akwa, na mũkamemenda mothiũ ma athĩĩni nĩkĩ? nĩguo Mwathani Jehova Mwene-Hinya-Wothe ekũũria.|222
+audio/ISA_003-3-16.wav|Jehova ekuuga atĩrĩ, Andũ-a-nja a Zayuni nĩetĩĩi, mathiiaga maguucĩtie ngingo, makiuhanaga na maitho mao,|222
+audio/ISA_003-3-16i.wav|na makinyaga na njacĩ magĩthiĩ, na makagambia njingiri iria irĩ thũngʼwa-inĩ ciao. Nĩ ũndũ ũcio Mwathani nĩagatũma andũ-a-nja acio a Zayuni magĩe na ironda mĩtwe;|222
+audio/ISA_003-3-17.wav|Nĩ ũndũ ũcio Mwathani nĩagatũma andũ-a-nja acio a Zayuni magĩe na ironda mĩtwe;Jehova nĩakoonania njaga yao.|222
+audio/ISA_003-3-18.wav|Mũthenya ũcio Jehova nĩakamaaũra mathaga mao: nĩmo bangiri, na rũtamĩ rwa kuoha njuĩrĩ, na mĩgathĩ ĩrĩa ĩĩhacĩte ta mweri,|222
+audio/ISA_003-3-19.wav|na icũhĩ cia matũ, na mĩrĩnga ya moko, na taama wa kwĩhumbĩra ũthiũ,na itambaya cia mũtwe, na irengeeri cia magũrũ,|222
+audio/ISA_003-3-20.wav| na mĩcibi, na cuba cia maguta manungi wega, na ithiitũ na icũhĩ cia mũhũũri cia moko, na icũhĩ cia maniũrũ,|222
+audio/ISA_003-3-22.wav|na nguo ndaihu iria njega, na ngũbia, na tũbuti, na nguo cia igũrũ, na tũmondo, na icicio cia kwĩrora,|222
+audio/ISA_003-3-23.wav|na nguo cia gatani ĩrĩa njega, na itambaya, na macuka ma ciande.Handũ ha mũtararĩko mwega gũkaagĩa na mũnungo mũũru;|222
+audio/ISA_003-3-24.wav|handũ ha mũcibi hagaakorwo mũkanda; handũ ha njuĩrĩ thondeke wega hagĩe kĩhara; handũ ha nguo njega hakaagĩa nguo ya ikũnia;|222
+audio/ISA_003-3-25.wav|naho handũ ha ũthaka wa mwĩrĩ hagĩe gũcinanwo na ruoro. Arũme anyu makooragwo na rũhiũ rwa njora, nacio njamba cianyu cia ita ikaaniinĩrwo mbaara-inĩ.|222
+audio/ISA_003-3-26.wav| Ihingo cia Zayuni nĩigacakaya na igirĩke, na itũũra rĩu rĩkire ihooru, na rĩikare rĩmomoretwo, rĩkagũa thĩ.|222
+audio/ISA_004-4-1.wav|Na rĩrĩ, mũthenya ũcio andũ-a-nja mũgwanja makaanyiita mũndũ mũrũme ũmwe,mamwĩre atĩrĩ, “Tũrĩrĩĩaga irio ciitũ ithuĩ ene, na twĩheage nguo;|222
+audio/ISA_004-4-1i.wav|no ũreke twĩtanagio nawe.Twehererie thoni ciitũ! Mũthenya ũcio Thuuna ya Jehova nĩĩgathakara na ĩgĩe riiri, namo maciaro ma bũrũri ũcio magaakorwo marĩ mega,|222
+audio/ISA_004-4-2.wav|Mũthenya ũcio Thuuna ya Jehova nĩĩgathakara na ĩgĩe riiri, namo maciaro ma bũrũri ũcio magaakorwo marĩ mega, na marĩ mwĩraho na riiri wa arĩa magaakorwo marĩ matigari kũu Isiraeli!|222
+audio/ISA_004-4-3.wav|Na rĩrĩ, nĩgũgakinya atĩrĩ, andũ arĩa magaatigwo Zayuni, na arĩa magaakorwo matigaire Jerusalemu, mageetagwo atheru,|222
+audio/ISA_004-4-3i.wav|nao nĩ arĩa othe maandĩkĩtwo na magaathĩrĩrwo gũtũũra muoyo kũu Jerusalemu. Mwathani nĩagathambia gĩko kĩrĩa kĩũru kĩa andũ-a-nja a Zayuni;|222
+audio/ISA_004-4-4.wav|nĩagatheria Jerusalemu marooro ma thakame arĩ na roho wa gũtuanĩra ciira o na roho wa gũcina na mwaki.|222
+audio/ISA_004-4-5.wav|Ningĩ Jehova nĩagatũma itu rĩa ndogo rĩgĩe kũndũ guothe mũthenya kũrĩa gũikarĩtwo nĩ andũ kĩrĩma-inĩ kĩu gĩa Zayuni, na atũme kũrĩa kũnganĩtwo gwakane rũrĩrĩmbĩ rwa mwaki ũtukũ;|222
+audio/ISA_004-4-6.wav|Ĩgaatuĩka ta gĩthũnũ gĩa kũrehe kĩĩruru gĩa kwĩgitia kuuma kũrĩ ũrugarĩ wa mũthenya, na handũ ha kũũrĩra na ha kwĩgitia kuuma kũrĩ kĩhuhũkanio kĩa rũhuho na kĩa mbura.|222
+audio/ISA_005-5-1.wav|Nĩngũinĩra mwendwa wakwa ũrĩa nyendete rwĩmbo, ndĩmũinĩre rwĩmbo rũkoniĩ mũgũnda wake wa mĩthabibũ: Mwendwa wakwa aarĩ na mũgũnda wa mĩthabibũ kĩrĩma-inĩ handũ hanoru mũno.|222
+audio/ISA_005-5-2.wav|Akĩũthiũrũrũkĩria na mũtaro, na akĩũngania mahiga marĩa mothe maarĩ kuo akĩmate, agĩcooka akĩũhaanda mĩthabibũ ĩrĩa mĩega mũno.|222
+audio/ISA_005-5-2i.wav|Nĩaakire mũthiringo mũraihu na igũrũ kũu thĩinĩ waguo, o na ningĩ akĩenja handũ ha kũhihagĩra thabibũ. Nake agĩeterera ũciare thabibũ njega, no rĩrĩ,|222
+audio/ISA_005-5-2j.wav|waciarire thabibũ cia gĩthaka.Atĩrĩrĩ, inyuĩ andũ aya mũtũũraga Jerusalemu o na andũ a Juda, tũtuithaniei ciira,|222
+audio/ISA_005-5-3.wav|niĩ na mũgũnda wakwa wa mĩthabibũ.Nĩ ũndũ ũrĩkũ ũngĩ ingĩekire mũgũnda ũcio wakwa wa mĩthabibũ gũkĩra ũguo ndawĩkire?|222
+audio/ISA_005-5-4.wav|Nĩ ũndũ ũrĩkũ ũngĩ ingĩekire mũgũnda ũcio wakwa wa mĩthabibũgũkĩra ũguo ndawĩkire?Waciarire thabibũ cia gĩthaka nĩkĩ, o hĩndĩ ĩrĩa ndetereire ũciare thabibũ njega?|222
+audio/ISA_005-5-5.wav|Atĩrĩrĩ, nĩngũmwĩra ũrĩa ngwĩka mũgũnda ũcio wakwa wa mĩthabibũ: Nĩngũwehereria rũgiri rwaguo, nĩguo wanangwo,|222
+audio/ISA_005-5-6.wav|Ndĩũtiganĩrie wanangĩke, ũtegũcehwo kana kũrĩmwo, naguo ũrĩmeraga congʼe na mĩigua. Ningĩ njathe matu matikanaurĩrie mbura.|222
+audio/ISA_005-5-7.wav|Mũgũnda wa mĩthabibũ wa Jehova Mwene-Hinya-Wothe nĩguo nyũmba ya Isiraeli, nao andũ a Juda nĩo mũgũnda wake wa mĩthabibũ ũrĩa akenagĩra. Nake eethire ciira wa kĩhooto,|222
+audio/ISA_005-5-7i.wav|akĩona o ũiti wa thakame;agĩcaria ũthingu, no akĩigua kĩrĩro kĩa mĩnyamaro. Kaĩ, inyuĩ arĩa mũikaraga mũkĩĩongagĩrĩra nyũmba mũrĩ na haro-ĩ!|222
+audio/ISA_005-5-8.wav|Kaĩ, inyuĩ arĩa mũikaraga mũkĩĩongagĩrĩra nyũmba mũrĩ na haro-ĩ! O inyuĩ mũnyiitithanagia gĩthaka kĩmwe na kĩrĩa kĩngĩ gĩgatuĩka kĩmwe, nginya hakaaga handũ ha gũtigĩria andũ arĩa angĩ,|222
+audio/ISA_005-5-9.wav|nĩguo mũtũũre bũrũri-inĩ mũrĩ inyuiki.Jehova Mwene-Hinya-Wothe oigĩte atĩrĩ ngĩiguaga: Ti-itherũ nyũmba iria nene nĩigakira ihooru, nacio nyũmba iria thaka ciage andũ a gũciikara.|222
+audio/ISA_005-5-10.wav|Mũgũnda wa ĩĩka ikũmi wa mĩthabibũ ũkaaruta bathi ĩmwe ya ndibei, nayo homeri ĩmwe* ya mbegũ yume eba ĩmwe ya ngano.|222
+audio/ISA_005-5-11.wav|Kaĩ arĩa marokaga gũũkĩra rũciinĩ tene,makahangʼĩre njoohi marĩ na haaro-ĩ! o acio maikaraga thĩ ũtukũ gũgakũra, nginya makarĩĩo nĩ ndibei.|222
+audio/ISA_005-5-12.wav|Maruga-inĩ mao makoragwo na inanda cia mũgeeto, na cia inubi na tũhembe, na mĩtũrirũ, o na ndibei, no matirũmbũyagia ciĩko cia Jehova,|222
+audio/ISA_005-5-12i.wav|na makaagĩra wĩra wa moko make gĩtĩĩo. Nĩ ũndũ ũcio andũ akwa nĩmagatahwo matwarwo bũrũri ũngĩ nĩ ũndũ wa kwaga ũmenyo;|222
+audio/ISA_005-5-13.wav|Nĩ ũndũ ũcio andũ akwa nĩmagatahwo matwarwo bũrũri ũngĩ nĩ ũndũ wa kwaga ũmenyo; andũ ao arĩa atĩĩku magaakua nĩ ngʼaragu, nakĩo kĩrĩndĩ kĩao kĩhooteke nĩ nyoota.|222
+audio/ISA_005-5-14.wav|Nĩ ũndũ ũcio mbĩrĩra nĩĩnenehetie thuti nĩ ũndũ wao, na ĩgaathamia kanua kayo gatarĩ gĩturi; kũu nĩkuo gũkaaharũrũka andũ ao arĩa marĩ igweta na ikundi cia andũ,|222
+audio/ISA_005-5-15.wav|hamwe na andũ arĩa manyuuaga makanegena, o na arĩĩu.Nĩ ũndũ ũcio mũndũ nĩakaharũrũkio, nakĩo kĩrĩndĩ gĩconorithio, namo maitho ma arĩa etĩĩi maconorithio.|222
+audio/ISA_005-5-16.wav|No Jehova Mwene-Hinya-Wothe nĩagatũũgĩrio nĩ ũndũ wa ciira wake wa kĩhooto,nake Mũrungu, o we ũcio mũtheru, nĩakeyonania nĩ mũtheru na ũndũ wa ũthingu wake.|222
+audio/ISA_005-5-17.wav|Hĩndĩ ĩyo ngʼondu ikaarĩĩaga ta irĩ ũrĩithio-inĩ wacio; natuo tũgondu tũkaarĩithagio kũndũ kũrĩa kwanangĩku gwa itonga.|222
+audio/ISA_005-5-18.wav|Kaĩ arĩa maguucagia mehia na mĩhĩndo ya maheeni marĩ na haaro-ĩ! o acio maguucagia waganu na mĩkanda ta ĩrĩa ĩguucagia ngaari cia ngʼombe,|222
+audio/ISA_005-5-19.wav|o acio moigaga atĩrĩ, “Ngai nĩahiũhe oke, nĩahĩke wĩra wake nĩguo tũwone. Nĩũkuhĩrĩrie,|222
+audio/ISA_005-5-19i.wav|Ngai nĩahiũhe oke,nĩahĩke wĩra wake nĩguo tũwone.Nĩũkuhĩrĩrie,mũbango wa Ũrĩa Mũtheru wa Isiraeli nĩũũke, nĩguo tũũmenye.|222
+audio/ISA_005-5-20.wav|Kaĩ arĩa metaga ũũru wega,naguo wega makawĩta ũũru marĩ na haaro-ĩ! o acio matuaga nduma nĩyo ũtheri, na ũtheri makaũtua nduma,|222
+audio/PSA_001-1-1.wav|Kũrathimwo-rĩ, nĩ mũndũ ũrĩa ũtatwaranaga na ũtaaro wa andũ arĩa aaganu, kana akarũgama njĩra-inĩ ya andũ arĩa mehagia, o na kana agaikarĩra gĩtĩ kĩa arĩa manyũrũranagia.|111
+audio/PSA_001-1-2.wav|No rĩrĩ, nĩ watho wa Jehova akenagĩra, na agecũũranagia ũhoro wa watho wake kũrĩ mũthenya kana ũtukũ.|111
+audio/PSA_001-1-3.wav|Mũndũ ũcio ahaana ta mũtĩ mũhaande tũmĩtaro-inĩ twa maaĩ, naguo ũciaraga maciaro maguo hĩndĩ ya mo yakinya, namo mathangũ maguo matihoohaga.|111
+audio/PSA_001-1-3i.wav|Na rĩrĩ, ũndũ o wothe ekaga nĩũgaacagĩra. No andũ arĩa aaganu matihaana ũguo! Mahaana ta mũũngũ|111
+audio/PSA_001-1-5.wav|Nĩ ũndũ ũcio andũ arĩa aaganu matigetiiria ciira-inĩ, kana andũ arĩa ehia metiirie kĩũngano-inĩ kĩa andũ arĩa athingu.|111
+audio/PSA_001-1-6.wav|Nĩgũkorwo Jehova nĩamenyagĩrĩra njĩra ya andũ arĩa athingu,no andũ arĩa aaganu marĩ njĩra-inĩ ya kũũra.|111
+audio/PSA_002-2-1.wav|Nĩ kĩĩ gĩtũmaga ndũrĩrĩ iciirĩre gwĩka ũũru na andũ mathugunde maũndũ ma tũhũ? Athamaki a thĩ nĩmatuĩte itua,|111
+audio/PSA_002-2-2.wav|Athamaki a thĩ nĩmatuĩte itua, na aathani magacookania ndundu nĩguo mookĩrĩre Jehova, na mookĩrĩre Ũrĩa wake Mũitĩrĩrie Maguta.|111
+audio/PSA_002-2-3.wav|Moigaga atĩrĩ, “Nĩtwĩohorei mĩnyororo yao, na mabĩngũ mao tũmate matweherere.|111
+audio/PSA_002-2-4.wav|Ũrĩa ũikarĩire gĩtĩ kĩa ũnene kũu igũrũ no gũtheka aratheka; We Mwathani-rĩ, nĩkũnyũrũria aramanyũrũria.|111
+audio/PSA_002-2-5.wav|Ningĩ agacooka akamakũũma arakarĩte, na akamekĩra guoya mũnene angʼũrĩkĩte akameera atĩrĩ,|111
+audio/PSA_002-2-6.wav|Niĩ nĩ niĩ njigĩte Mũthamaki wakwa kũu Zayuni, kĩrĩma-inĩ gĩakwa kĩrĩa kĩamũre. Niĩ nĩngwanĩrĩra itua rĩa Jehova:|111
+audio/PSA_002-2-7.wav|Niĩ nĩngwanĩrĩra itua rĩa Jehova: Jehova aanjĩĩrire atĩrĩ, “Wee nĩwe Mũrũ wakwa, ũmũthĩ nĩndatuĩka thoguo.|111
+audio/PSA_002-2-8.wav|Hooya niĩ, na nĩngũkũhe ndũrĩrĩ ituĩke igai rĩaku, nacio ituri cia thĩ ituĩke ciaku kĩũmbe. Nĩũgaciunanga na njũgũma ya kĩgera ya ũthamaki;|111
+audio/PSA_002-2-9.wav| Nĩũgaciunanga na njũgũma ya kĩgera ya ũthamaki; ũgaacihehenja ihaane ta tũcunjĩ twa nyũngũ ya rĩũmba.|111
+audio/PSA_002-2-10.wav|Nĩ ũndũ ũcio, inyuĩ athamaki ta kĩũhĩgeei,inyuĩ aathani a thĩ mũtaarĩke.Tungatĩrai Jehova mũkĩmwĩtigagĩra,|111
+audio/PSA_002-2-12.wav|Mumunyai Mũriũ, ndakae kũrakara, na inyuĩ mũniinĩrwo njĩra-inĩ, nĩgũkorwo mangʼũrĩ make maahota kũrĩrĩmbũka o rĩmwe.|111
+audio/PSA_042-42-2.wav|Ngoro yakwa nĩ Ngai ĩnyootagĩra, O we Mũrungu ũrĩa ũrĩ muoyo.Ĩ nĩ rĩ ngaathiĩ ngacemanie na Ngai?|111
+audio/PSA_042-42-3.wav|Maithori makwa matuĩkĩte nĩmo irio ciakwa mũthenya o na ũtukũ, nao andũ manjũũragia mũthenya wothe atĩrĩ, "Ngai waku akĩrĩ ha?”|111
+audio/PSA_042-42-4.wav|Maũndũ maya ndĩmaririkanaga o ngĩitũrũraga ngoro yakwa: ngaririkana ũrĩa ndatwaranaga na kĩrĩndĩ, ndongoretie mũtongoro nginya nyũmba-inĩ ya Ngai,|111
+audio/PSA_042-42-4i.wav|ndongoretie mũtongoro nginya nyũmba-inĩ ya Ngai,tũkĩanagĩrĩra na gĩkeno na tũgĩcookagia ngaatho, ndĩ kĩrĩndĩ-inĩ hĩndĩ ya ciathĩ.|111
+audio/PSA_042-42-5.wav|Wee ngoro yakwa, ũkĩritũhĩirwo nĩkĩ?  Ũrathĩĩnĩka ũguo nĩkĩ ũrĩ thĩinĩ wakwa? Wĩrĩgagĩrĩre Ngai, nĩgũkorwo no ndĩrĩmũgoocaga,|111
+audio/PSA_042-42-6.wav|Ngoro yakwa nĩnditũhĩre ĩrĩ thĩinĩ wakwa; nĩ ũndũ ũcio nĩngũkũririkana ndĩ bũrũri wa Jorodani, o kũu irĩma-inĩ cia Herimoni, kuuma Kĩrĩma-inĩ kĩa Mizari.|111
+audio/PSA_042-42-7.wav|Ndia ĩmwe nĩĩreta ndia ĩrĩa ĩngĩ na mũgambo wa mũrurumo wa ndururumo ciaku cia maaĩ; makũmbĩ maku mothe o na ndiihũ nĩciũkĩte,|111
+audio/PSA_042-42-8.wav|Mũthenya-rĩ, Jehova nĩarĩathagĩrĩra wendo wake harĩ niĩ, na ũtukũ nĩ rwĩmbo ndĩrĩmũinagĩra, rũrĩ ihooya rĩa kũhooya Mũrungu wa muoyo wakwa.|111
+audio/PSA_042-42-9.wav|Njũũragia Mũrungu, o we rwaro rwakwa rwa Ihiga, atĩrĩ, Ũriganĩirwo nĩ niĩ nĩkĩ? Ingĩthiĩ ngĩcakayaga nĩkĩ, nĩ ũndũ wa kũhinyĩrĩirio nĩ thũ?|111
+audio/PSA_042-42-10.wav|Nĩ ta ngũhehenjwo mahĩndĩ makwa, rĩrĩa amuku akwa mekũnyũrũria, magatinda mũthenya wothe makĩnjũũria atĩrĩ, “Ngai waku akĩrĩ ha?”|111
+audio/PSA_042-42-11.wav|Wee ngoro yakwa, ũkĩritũhĩirwo nĩkĩ? Ũrathĩĩnĩka ũguo nĩkĩ ũrĩ thĩinĩ wakwa? Wĩrĩgagĩrĩre Ngai,|111
+audio/PSA_043-43-1.wav|Nduĩra ciira wakwa, Wee Ngai, na ũnjiirĩrĩre harĩ rũrĩrĩ rũrũ rũtagwĩtĩkĩtie; ndeithũra kuuma kũrĩ andũ aya aaganu na maaragia maheeni.|111
+audio/PSA_043-43-2.wav|Wee Ngai nĩwe kĩirigo gĩakwa kĩa hinya.Ũndiganĩirie nĩkĩ? Ingĩthiĩ ngĩcakayaga nĩkĩ nĩ ũndũ wa kũhinyĩrĩirio nĩ thũ?|111
+audio/PSA_043-43-3.wav| Tũma ũtheri waku na ũhoro waku wa ma,ũreke indongorie arĩ cio; reke inginyie kĩrĩma-inĩ gĩaku kĩrĩa kĩamũre, o kũu gĩikaro-inĩ gĩaku.|111
+audio/PSA_043-43-4.wav|Hĩndĩ ĩyo nĩngathiĩ kĩgongona-inĩ kĩa Ngai, nginye harĩ Mũrungu, o we gĩkeno gĩakwa, na o we ngenagĩra. Nĩndĩrĩkũgoocaga ngĩhũũraga kĩnanda kĩa mũgeeto,|111
+audio/PSA_043-43-5.wav|Wee ngoro yakwa, ũkĩritũhĩirwo nĩkĩ? Ũrathĩĩnĩka ũguo nĩkĩ ũrĩ thĩinĩ wakwa? Wĩrĩgagĩrĩre o Ngai,|111
+audio/PSA_044-44-1.wav|Twanaigua na matũ maitũ Wee Ngai, tũkĩĩrwo nĩ maithe maitũ ũrĩa wekire matukũ-inĩ mao, o matukũ macio ma tene.|111
+audio/PSA_044-44-2.wav|Nĩwaingatire ndũrĩrĩ na guoko gwaku, na ũgĩcooka kũhaanda maithe maitũ kuo; Wee nĩwanyariirire irĩndĩ iria ingĩ, na ũgĩtũma maithe maitũ magaacĩre.|111
+audio/PSA_044-44-3.wav| Matiegwatĩire bũrũri ũcio na hinya wa rũhiũ rwao, o na ti icoka ciao ciamaheire ũhootani; no nĩ guoko gwaku kwa ũrĩo, ĩĩ nĩ gĩcoka gĩaku,|111
+audio/PSA_044-44-4.wav|na ũtheri wa gĩthiithi gĩaku, nĩgũkorwo nĩwamendete. Wee nĩwe Mũthamaki wakwa na Ngai wakwa, ũrĩa wathagĩrĩra Jakubu ũhootani.|111
+audio/PSA_044-44-5.wav|Wee nĩwe ũtũhotithagia kũhoota thũ ciitũ; nĩ ũndũ wa rĩĩtwa rĩaku tũrangagĩrĩria arĩa marĩ muku na ithuĩ.|111
+audio/PSA_044-44-6-7.wav|Ndiĩhokaga ũta wakwa,rũhiũ rwakwa rwa njora ti ruo rũngĩĩhootanĩra; no Wee nĩwe ũtũtooranagĩria harĩ thũ ciitũ, ũgagĩconorithia acio matũthũire.|111
+audio/PSA_044-44-8.wav|Ngai nĩwe tũtindaga tũkĩĩrahĩra mũthenya wothe, na tũgũtũũra tũgoocaga rĩĩtwa rĩaku nginya tene. No rĩu nĩũtũtiganĩirie na ũgatũconorithia;|111
+audio/PSA_044-44-10.wav|nĩũtigĩte gũtwaranaga na mbũtũ ciitũ cia ita. Nĩwatũmire tũũrĩre thũ ciitũ, o icio itũthũire igetahĩra indo ciitũ.|111

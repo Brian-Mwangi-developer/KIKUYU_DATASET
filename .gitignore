@@ -1,0 +1,6 @@
+
+
+/.venv
+
+# Ignore any temporary or system files
+.DS_Store
