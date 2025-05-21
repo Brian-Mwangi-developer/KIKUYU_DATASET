@@ -34,3 +34,9 @@ ds = load_dataset("BrianMwangi/kikuyu-transcription-dataset", data_files="metada
 audio = ds["train"][0]["wav_filename"]   # path in repo
 text  = ds["train"][0]["transcription"]
 ```
+
+## Acknowledgments
+
+This dataset is derived from resources provided by **OpenBible**. We thank them for their work and for making the data available under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+https://open.bible/
