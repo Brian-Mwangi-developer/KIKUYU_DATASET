@@ -338,7 +338,7 @@ audio/NUM_008-8-12i.wav|na ĩyo ĩngĩ ĩtuĩke iruta rĩa njino, nĩgeetha Alaw
 audio/NUM_008-8-13.wav|Reke Alawii marũgame mbere ya Harũni na ariũ ake, na ũcooke ũmarutĩre Jehova taarĩ igongona rĩa gũthũngũthio. |222
 audio/NUM_008-8-14.wav|Ũguo nĩguo ũkaamũra Alawii, ũmeherie kuuma kũrĩ andũ arĩa angĩ a Isiraeli, nao Alawii acio matuĩke akwa.|222
 audio/NUM_008-8-15.wav|Warĩkia gũtheria Alawii acio na kũmaruta matuĩke ta igongona rĩa gũthũngũthio-rĩ, nĩmarutage wĩra wao Hema-inĩ-ya-Gũtũnganwo.|222
-audio/NUM_008-8-16mp3|Acio nĩo andũ a Isiraeli arĩa mekũheanwo kũrĩ niĩ biũ. Ndĩmeyoeire marĩ akwa ithenya rĩa marigithathi ma ciana cia tũhĩĩ kuuma kũrĩ mũtumia o wothe Mũisiraeli.|222
+audio/NUM_008-8-16mp3.wav|Acio nĩo andũ a Isiraeli arĩa mekũheanwo kũrĩ niĩ biũ. Ndĩmeyoeire marĩ akwa ithenya rĩa marigithathi ma ciana cia tũhĩĩ kuuma kũrĩ mũtumia o wothe Mũisiraeli.|222
 audio/NUM_008-8-17.wav|Irigithathi o rĩothe rĩa njamba gũkũ Isiraeli, kana nĩ rĩa mũndũ kana nĩ rĩa nyamũ-rĩ, nĩ rĩakwa.|222
 audio/NUM_008-8-17i.wav|Rĩrĩa ndooragire marigithathi mothe kũu bũrũri wa Misiri-rĩ, hĩndĩ ĩyo nĩguo ndaamaamũrire matuĩke akwa mwene.|222
 audio/NUM_008-8-18.wav|Na niĩ nĩ njoete Alawii ithenya rĩa marigithathi mothe ma ciana cia tũhĩĩ thĩinĩ wa Isiraeli. Thĩinĩ wa andũ a Isiraeli othe-rĩ,|222
